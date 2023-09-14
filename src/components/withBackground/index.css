@@ -1,0 +1,9 @@
+.game-container {
+  padding-top: 25px;
+  background-position: center;
+  background-color: black;
+}
+
+.light {
+  background-color: white;
+}

@@ -1,0 +1,206 @@
+
+.game-wrapper{
+  width: 60%;
+  color: white;
+  margin: auto;
+}
+.game-name {
+    font-family: Nippo Bold;
+    font-size: 2rem;
+    margin-top: -5px;
+    color: #000;
+    text-align: center;
+  }
+.game-content{
+    height: 80%;
+    margin: auto;
+    width: 100%;
+    color: #000;
+}
+.game{
+  border: 3px solid #000;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(270deg, #91B8F3 0%, #FFFFFF 50%, #F390A6 100%);
+
+}
+
+.game .lateral{
+  margin: 0;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.game-description{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  color: #000;
+}
+.game-description span {
+  font-weight: 100;
+}
+.game .lateral:first-of-type{
+  border-right: 3px solid #000;
+}
+
+.game .lateral:last-of-type{
+  border-left: 3px solid #000;
+}
+
+.game .sliders{
+  position: relative;
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.game .sliders::before{
+  height: 100%;
+  position:absolute;
+  content:'';
+  width: 10px;
+  border: 2px solid #000;
+  border-top: none;
+  border-bottom: none;
+  left: 50%;
+  transform: translate(-50%, 0%);
+} 
+
+.action{
+  display: flex;
+  justify-content: center;
+}
+
+.action button{
+  border-width: 2px;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    font-weight: 600;
+}
+.sliders div {
+  width: 100%;
+  z-index: 10;
+}
+
+.result-wrapper{
+  position: relative;
+  width: 87%!important;
+  margin: auto;
+}
+
+.sliders div span {
+  position: absolute;
+  font-family: nippo;
+  font-weight: 900;
+  -webkit-text-stroke-width: 1.4px;
+  -webkit-text-fill-color: transparent;
+  font-size: 1.3em;
+  text-align: center;
+  transform: translateX(-35%);
+
+}
+
+.sliders div input{
+  margin: 30px 0;
+  -webkit-appearance: none;
+  width: 100%;
+  border-radius: 5px;
+  background: #ffffff00;
+  outline: none;
+}
+
+.sliders input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 80px;
+  height: 80px;
+  border: 0;
+  border-radius: 50%;
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+#milei::-webkit-slider-thumb {
+  background-image: url('/src/images/candidates/millei.svg');
+}
+#bregman::-webkit-slider-thumb {
+  background-image: url('/src/images/candidates/bregman.svg');
+}
+#bullrich::-webkit-slider-thumb {
+  background-image: url('/src/images/candidates/bullrich.svg');
+}
+#schiaretti::-webkit-slider-thumb {
+  background-image: url('/src/images/candidates/schiaretti.svg');
+}
+#massa::-webkit-slider-thumb {
+  background-image: url('/src/images/candidates/massa.svg');
+}
+
+.sliders > div{
+  position: relative;
+}
+
+.name-candidate{
+  position: absolute;
+  font-weight: 100;
+  width: 0;
+  top: 30%;
+  left: 60%;
+  white-space: pre-line;
+}
+
+.centered{
+    text-align: center;
+}
+
+.logo-wrapper{
+  position: absolute;
+  left: 50%;
+  bottom: 5%;
+  transform: translate(-50%, -50%) scale(2);
+  -webkit-transform: translate(-50%, -50%) scale(2);
+  color: white;
+}
+
+.logo-wrapper-game{
+  margin-top: 16px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  bottom: 0;
+}
+  @media screen and (max-width:960px){
+    .game-wrapper{
+        width: 95%;
+    }
+    .game-name{
+      font-size:1rem
+    }
+    .game .lateral{
+      padding: 8px;
+    }
+    .result-wrapper{
+      position: relative;
+      width: 75%!important;
+    }
+    .logo-wrapper{
+      transform: translate(-50%, -50%) scale(1);
+      -webkit-transform: translate(-50%, -50%) scale(1);
+    }
+    .sliders div input{
+      margin: 24px 0;
+    }
+    .sliders input[type='range']::-webkit-slider-thumb {
+      width: 60px;
+      height: 60px;
+    }
+    .name-candidate{
+      left: 70%;
+    }
+  }

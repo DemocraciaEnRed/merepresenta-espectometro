@@ -1,0 +1,11 @@
+.title-question{
+  font-size: 1rem;
+  margin-top: -5px;
+  color: #000;
+  text-align: center;
+}
+
+.button-group{
+  display: flex;
+  flex-direction: column;
+}

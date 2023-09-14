@@ -1,0 +1,7002 @@
+[
+    {
+        "milei": 23,
+        "bregman": -66,
+        "bullrich": 21,
+        "massa": -40,
+        "schiaretti": -16
+    },
+    {
+        "milei": 33,
+        "bregman": -34,
+        "bullrich": 17,
+        "massa": -40,
+        "schiaretti": 25
+    },
+    {
+        "milei": 75,
+        "bregman": -55,
+        "bullrich": 37,
+        "massa": -32,
+        "schiaretti": 7
+    },
+    {
+        "milei": 31,
+        "bregman": -12,
+        "bullrich": -7,
+        "massa": 5,
+        "schiaretti": 26
+    },
+    {
+        "milei": 18,
+        "bregman": -95,
+        "bullrich": 47,
+        "massa": -17,
+        "schiaretti": -29
+    },
+    {
+        "milei": 46,
+        "bregman": -41,
+        "bullrich": 7,
+        "massa": -9,
+        "schiaretti": 24
+    },
+    {
+        "milei": 91,
+        "bregman": -14,
+        "bullrich": 31,
+        "massa": -6,
+        "schiaretti": 8
+    },
+    {
+        "milei": 100,
+        "bregman": -66,
+        "bullrich": 18,
+        "massa": -27,
+        "schiaretti": -4
+    },
+    {
+        "milei": 27,
+        "bregman": -85,
+        "bullrich": 40,
+        "massa": -46,
+        "schiaretti": 19
+    },
+    {
+        "milei": 53,
+        "bregman": -72,
+        "bullrich": 13,
+        "massa": 6,
+        "schiaretti": 19
+    },
+    {
+        "milei": 88,
+        "bregman": -43,
+        "bullrich": 13,
+        "massa": -38,
+        "schiaretti": -18
+    },
+    {
+        "milei": 64,
+        "bregman": -31,
+        "bullrich": 20,
+        "massa": -2,
+        "schiaretti": 6
+    },
+    {
+        "milei": 3,
+        "bregman": -19,
+        "bullrich": -6,
+        "massa": -19,
+        "schiaretti": -27
+    },
+    {
+        "milei": 49,
+        "bregman": -90,
+        "bullrich": 33,
+        "massa": -10,
+        "schiaretti": 11
+    },
+    {
+        "milei": 1,
+        "bregman": -81,
+        "bullrich": -6,
+        "massa": -42,
+        "schiaretti": 2
+    },
+    {
+        "milei": 56,
+        "bregman": -67,
+        "bullrich": 40,
+        "massa": -17,
+        "schiaretti": 6
+    },
+    {
+        "milei": 72,
+        "bregman": -48,
+        "bullrich": 18,
+        "massa": -4,
+        "schiaretti": 24
+    },
+    {
+        "milei": 71,
+        "bregman": -81,
+        "bullrich": 22,
+        "massa": -33,
+        "schiaretti": -4
+    },
+    {
+        "milei": 23,
+        "bregman": -74,
+        "bullrich": 15,
+        "massa": -29,
+        "schiaretti": 8
+    },
+    {
+        "milei": 39,
+        "bregman": -5,
+        "bullrich": 26,
+        "massa": -31,
+        "schiaretti": -20
+    },
+    {
+        "milei": 40,
+        "bregman": -85,
+        "bullrich": 33,
+        "massa": -45,
+        "schiaretti": -20
+    },
+    {
+        "milei": 12,
+        "bregman": -78,
+        "bullrich": 0,
+        "massa": -32,
+        "schiaretti": 28
+    },
+    {
+        "milei": 43,
+        "bregman": -18,
+        "bullrich": -8,
+        "massa": 2,
+        "schiaretti": -29
+    },
+    {
+        "milei": 3,
+        "bregman": -86,
+        "bullrich": 25,
+        "massa": -21,
+        "schiaretti": 0
+    },
+    {
+        "milei": 13,
+        "bregman": -67,
+        "bullrich": 26,
+        "massa": -36,
+        "schiaretti": -21
+    },
+    {
+        "milei": 52,
+        "bregman": -80,
+        "bullrich": 27,
+        "massa": -45,
+        "schiaretti": -6
+    },
+    {
+        "milei": 26,
+        "bregman": -61,
+        "bullrich": 5,
+        "massa": -35,
+        "schiaretti": 10
+    },
+    {
+        "milei": 11,
+        "bregman": -3,
+        "bullrich": 5,
+        "massa": -48,
+        "schiaretti": -15
+    },
+    {
+        "milei": 20,
+        "bregman": -59,
+        "bullrich": 27,
+        "massa": 5,
+        "schiaretti": -8
+    },
+    {
+        "milei": 81,
+        "bregman": -6,
+        "bullrich": 16,
+        "massa": -10,
+        "schiaretti": -17
+    },
+    {
+        "milei": 36,
+        "bregman": -66,
+        "bullrich": 34,
+        "massa": -2,
+        "schiaretti": 9
+    },
+    {
+        "milei": 71,
+        "bregman": -16,
+        "bullrich": 10,
+        "massa": -47,
+        "schiaretti": -12
+    },
+    {
+        "milei": 57,
+        "bregman": -91,
+        "bullrich": 35,
+        "massa": -25,
+        "schiaretti": 20
+    },
+    {
+        "milei": 50,
+        "bregman": -30,
+        "bullrich": 42,
+        "massa": -43,
+        "schiaretti": -22
+    },
+    {
+        "milei": 63,
+        "bregman": -66,
+        "bullrich": 43,
+        "massa": -32,
+        "schiaretti": 24
+    },
+    {
+        "milei": 98,
+        "bregman": -52,
+        "bullrich": 19,
+        "massa": -39,
+        "schiaretti": 9
+    },
+    {
+        "milei": 71,
+        "bregman": -50,
+        "bullrich": 15,
+        "massa": -8,
+        "schiaretti": 21
+    },
+    {
+        "milei": 14,
+        "bregman": -100,
+        "bullrich": 45,
+        "massa": -24,
+        "schiaretti": -13
+    },
+    {
+        "milei": 46,
+        "bregman": -16,
+        "bullrich": -2,
+        "massa": -29,
+        "schiaretti": 10
+    },
+    {
+        "milei": 86,
+        "bregman": -100,
+        "bullrich": 9,
+        "massa": -48,
+        "schiaretti": -10
+    },
+    {
+        "milei": 8,
+        "bregman": -67,
+        "bullrich": -5,
+        "massa": 9,
+        "schiaretti": -23
+    },
+    {
+        "milei": 17,
+        "bregman": -79,
+        "bullrich": 29,
+        "massa": -25,
+        "schiaretti": 3
+    },
+    {
+        "milei": 1,
+        "bregman": -94,
+        "bullrich": 2,
+        "massa": -29,
+        "schiaretti": 11
+    },
+    {
+        "milei": 21,
+        "bregman": -82,
+        "bullrich": 22,
+        "massa": -15,
+        "schiaretti": 12
+    },
+    {
+        "milei": 93,
+        "bregman": -66,
+        "bullrich": 3,
+        "massa": -35,
+        "schiaretti": 28
+    },
+    {
+        "milei": 81,
+        "bregman": -30,
+        "bullrich": 10,
+        "massa": -25,
+        "schiaretti": -7
+    },
+    {
+        "milei": 78,
+        "bregman": -1,
+        "bullrich": -7,
+        "massa": -39,
+        "schiaretti": 15
+    },
+    {
+        "milei": 59,
+        "bregman": -9,
+        "bullrich": 21,
+        "massa": -25,
+        "schiaretti": -2
+    },
+    {
+        "milei": 40,
+        "bregman": -100,
+        "bullrich": 48,
+        "massa": 6,
+        "schiaretti": 8
+    },
+    {
+        "milei": 82,
+        "bregman": -55,
+        "bullrich": -3,
+        "massa": -11,
+        "schiaretti": 11
+    },
+    {
+        "milei": 71,
+        "bregman": -50,
+        "bullrich": 33,
+        "massa": -45,
+        "schiaretti": -19
+    },
+    {
+        "milei": 82,
+        "bregman": -97,
+        "bullrich": -2,
+        "massa": -42,
+        "schiaretti": 22
+    },
+    {
+        "milei": 50,
+        "bregman": -85,
+        "bullrich": 50,
+        "massa": 1,
+        "schiaretti": 22
+    },
+    {
+        "milei": 98,
+        "bregman": -2,
+        "bullrich": 46,
+        "massa": 0,
+        "schiaretti": 29
+    },
+    {
+        "milei": 0,
+        "bregman": -9,
+        "bullrich": 16,
+        "massa": -19,
+        "schiaretti": 27
+    },
+    {
+        "milei": 46,
+        "bregman": -93,
+        "bullrich": 1,
+        "massa": -18,
+        "schiaretti": -27
+    },
+    {
+        "milei": 54,
+        "bregman": -84,
+        "bullrich": 45,
+        "massa": 2,
+        "schiaretti": 23
+    },
+    {
+        "milei": 52,
+        "bregman": -21,
+        "bullrich": 24,
+        "massa": 4,
+        "schiaretti": -8
+    },
+    {
+        "milei": 97,
+        "bregman": -53,
+        "bullrich": -4,
+        "massa": -26,
+        "schiaretti": -27
+    },
+    {
+        "milei": 12,
+        "bregman": -22,
+        "bullrich": 22,
+        "massa": -30,
+        "schiaretti": -4
+    },
+    {
+        "milei": 54,
+        "bregman": -1,
+        "bullrich": 48,
+        "massa": -22,
+        "schiaretti": 23
+    },
+    {
+        "milei": 20,
+        "bregman": -3,
+        "bullrich": 37,
+        "massa": -40,
+        "schiaretti": -14
+    },
+    {
+        "milei": 37,
+        "bregman": -66,
+        "bullrich": 23,
+        "massa": -4,
+        "schiaretti": -12
+    },
+    {
+        "milei": 76,
+        "bregman": -45,
+        "bullrich": 13,
+        "massa": -29,
+        "schiaretti": 1
+    },
+    {
+        "milei": 46,
+        "bregman": -74,
+        "bullrich": 5,
+        "massa": -48,
+        "schiaretti": 20
+    },
+    {
+        "milei": 19,
+        "bregman": -2,
+        "bullrich": 11,
+        "massa": -12,
+        "schiaretti": 6
+    },
+    {
+        "milei": 25,
+        "bregman": -92,
+        "bullrich": 40,
+        "massa": -43,
+        "schiaretti": 27
+    },
+    {
+        "milei": 52,
+        "bregman": -79,
+        "bullrich": 27,
+        "massa": 7,
+        "schiaretti": -27
+    },
+    {
+        "milei": 79,
+        "bregman": -77,
+        "bullrich": 39,
+        "massa": -38,
+        "schiaretti": 11
+    },
+    {
+        "milei": 66,
+        "bregman": -53,
+        "bullrich": -9,
+        "massa": -16,
+        "schiaretti": 20
+    },
+    {
+        "milei": 40,
+        "bregman": -47,
+        "bullrich": 6,
+        "massa": -46,
+        "schiaretti": 0
+    },
+    {
+        "milei": 85,
+        "bregman": -88,
+        "bullrich": 49,
+        "massa": -50,
+        "schiaretti": 10
+    },
+    {
+        "milei": 9,
+        "bregman": -11,
+        "bullrich": 25,
+        "massa": -49,
+        "schiaretti": 30
+    },
+    {
+        "milei": 44,
+        "bregman": -51,
+        "bullrich": 23,
+        "massa": 1,
+        "schiaretti": -1
+    },
+    {
+        "milei": 28,
+        "bregman": -72,
+        "bullrich": 38,
+        "massa": -35,
+        "schiaretti": -2
+    },
+    {
+        "milei": 24,
+        "bregman": -46,
+        "bullrich": 1,
+        "massa": 5,
+        "schiaretti": -6
+    },
+    {
+        "milei": 7,
+        "bregman": -92,
+        "bullrich": 48,
+        "massa": -29,
+        "schiaretti": 18
+    },
+    {
+        "milei": 36,
+        "bregman": -54,
+        "bullrich": -4,
+        "massa": 10,
+        "schiaretti": 20
+    },
+    {
+        "milei": 56,
+        "bregman": -74,
+        "bullrich": 40,
+        "massa": -26,
+        "schiaretti": 17
+    },
+    {
+        "milei": 72,
+        "bregman": -10,
+        "bullrich": 49,
+        "massa": -50,
+        "schiaretti": -18
+    },
+    {
+        "milei": 100,
+        "bregman": -88,
+        "bullrich": 26,
+        "massa": -14,
+        "schiaretti": 29
+    },
+    {
+        "milei": 12,
+        "bregman": -62,
+        "bullrich": 17,
+        "massa": -47,
+        "schiaretti": 6
+    },
+    {
+        "milei": 33,
+        "bregman": -28,
+        "bullrich": 25,
+        "massa": -9,
+        "schiaretti": 3
+    },
+    {
+        "milei": 96,
+        "bregman": -42,
+        "bullrich": 10,
+        "massa": -38,
+        "schiaretti": 3
+    },
+    {
+        "milei": 84,
+        "bregman": -68,
+        "bullrich": 30,
+        "massa": -21,
+        "schiaretti": 5
+    },
+    {
+        "milei": 90,
+        "bregman": -47,
+        "bullrich": 27,
+        "massa": -20,
+        "schiaretti": 17
+    },
+    {
+        "milei": 5,
+        "bregman": -9,
+        "bullrich": 28,
+        "massa": -12,
+        "schiaretti": 23
+    },
+    {
+        "milei": 0,
+        "bregman": -83,
+        "bullrich": 22,
+        "massa": -45,
+        "schiaretti": 24
+    },
+    {
+        "milei": 73,
+        "bregman": -58,
+        "bullrich": -8,
+        "massa": -43,
+        "schiaretti": 5
+    },
+    {
+        "milei": 27,
+        "bregman": -57,
+        "bullrich": -7,
+        "massa": -35,
+        "schiaretti": 9
+    },
+    {
+        "milei": 40,
+        "bregman": -71,
+        "bullrich": 12,
+        "massa": -10,
+        "schiaretti": -14
+    },
+    {
+        "milei": 4,
+        "bregman": -49,
+        "bullrich": 19,
+        "massa": -5,
+        "schiaretti": 30
+    },
+    {
+        "milei": 88,
+        "bregman": -42,
+        "bullrich": -4,
+        "massa": -49,
+        "schiaretti": -29
+    },
+    {
+        "milei": 41,
+        "bregman": -74,
+        "bullrich": 42,
+        "massa": -36,
+        "schiaretti": 17
+    },
+    {
+        "milei": 90,
+        "bregman": -5,
+        "bullrich": 30,
+        "massa": -35,
+        "schiaretti": 21
+    },
+    {
+        "milei": 25,
+        "bregman": -52,
+        "bullrich": 46,
+        "massa": -26,
+        "schiaretti": 26
+    },
+    {
+        "milei": 72,
+        "bregman": -48,
+        "bullrich": 36,
+        "massa": -6,
+        "schiaretti": 5
+    },
+    {
+        "milei": 23,
+        "bregman": -3,
+        "bullrich": 29,
+        "massa": -40,
+        "schiaretti": -4
+    },
+    {
+        "milei": 43,
+        "bregman": -15,
+        "bullrich": -9,
+        "massa": -5,
+        "schiaretti": 18
+    },
+    {
+        "milei": 24,
+        "bregman": -1,
+        "bullrich": 37,
+        "massa": -48,
+        "schiaretti": 0
+    },
+    {
+        "milei": 28,
+        "bregman": -23,
+        "bullrich": 40,
+        "massa": 6,
+        "schiaretti": 3
+    },
+    {
+        "milei": 8,
+        "bregman": -90,
+        "bullrich": 33,
+        "massa": -35,
+        "schiaretti": -30
+    },
+    {
+        "milei": 70,
+        "bregman": -20,
+        "bullrich": 46,
+        "massa": -2,
+        "schiaretti": -20
+    },
+    {
+        "milei": 69,
+        "bregman": -16,
+        "bullrich": 1,
+        "massa": 8,
+        "schiaretti": -18
+    },
+    {
+        "milei": 9,
+        "bregman": -69,
+        "bullrich": 29,
+        "massa": -35,
+        "schiaretti": -3
+    },
+    {
+        "milei": 29,
+        "bregman": -47,
+        "bullrich": 7,
+        "massa": -1,
+        "schiaretti": -20
+    },
+    {
+        "milei": 15,
+        "bregman": -8,
+        "bullrich": 5,
+        "massa": -9,
+        "schiaretti": -4
+    },
+    {
+        "milei": 82,
+        "bregman": -64,
+        "bullrich": 47,
+        "massa": -33,
+        "schiaretti": 26
+    },
+    {
+        "milei": 55,
+        "bregman": -35,
+        "bullrich": 0,
+        "massa": 8,
+        "schiaretti": -12
+    },
+    {
+        "milei": 99,
+        "bregman": -1,
+        "bullrich": 43,
+        "massa": -29,
+        "schiaretti": -12
+    },
+    {
+        "milei": 34,
+        "bregman": -67,
+        "bullrich": 46,
+        "massa": -42,
+        "schiaretti": 25
+    },
+    {
+        "milei": 96,
+        "bregman": -48,
+        "bullrich": 29,
+        "massa": -3,
+        "schiaretti": -4
+    },
+    {
+        "milei": 10,
+        "bregman": -21,
+        "bullrich": 16,
+        "massa": -33,
+        "schiaretti": 29
+    },
+    {
+        "milei": 64,
+        "bregman": -2,
+        "bullrich": 31,
+        "massa": -28,
+        "schiaretti": -23
+    },
+    {
+        "milei": 22,
+        "bregman": -99,
+        "bullrich": 4,
+        "massa": -10,
+        "schiaretti": 23
+    },
+    {
+        "milei": 98,
+        "bregman": -44,
+        "bullrich": 7,
+        "massa": 4,
+        "schiaretti": 23
+    },
+    {
+        "milei": 3,
+        "bregman": -45,
+        "bullrich": 13,
+        "massa": -22,
+        "schiaretti": 18
+    },
+    {
+        "milei": 10,
+        "bregman": -8,
+        "bullrich": 11,
+        "massa": -7,
+        "schiaretti": 6
+    },
+    {
+        "milei": 67,
+        "bregman": -18,
+        "bullrich": 47,
+        "massa": -22,
+        "schiaretti": -9
+    },
+    {
+        "milei": 99,
+        "bregman": -57,
+        "bullrich": 39,
+        "massa": -43,
+        "schiaretti": -21
+    },
+    {
+        "milei": 48,
+        "bregman": -4,
+        "bullrich": 22,
+        "massa": -42,
+        "schiaretti": -6
+    },
+    {
+        "milei": 4,
+        "bregman": -49,
+        "bullrich": 17,
+        "massa": -19,
+        "schiaretti": 4
+    },
+    {
+        "milei": 42,
+        "bregman": -23,
+        "bullrich": 46,
+        "massa": -8,
+        "schiaretti": -4
+    },
+    {
+        "milei": 65,
+        "bregman": -5,
+        "bullrich": 49,
+        "massa": -48,
+        "schiaretti": -14
+    },
+    {
+        "milei": 61,
+        "bregman": -21,
+        "bullrich": 32,
+        "massa": -50,
+        "schiaretti": -29
+    },
+    {
+        "milei": 60,
+        "bregman": -70,
+        "bullrich": 25,
+        "massa": -31,
+        "schiaretti": 21
+    },
+    {
+        "milei": 81,
+        "bregman": -76,
+        "bullrich": 2,
+        "massa": -8,
+        "schiaretti": 22
+    },
+    {
+        "milei": 11,
+        "bregman": -49,
+        "bullrich": 49,
+        "massa": -37,
+        "schiaretti": 21
+    },
+    {
+        "milei": 40,
+        "bregman": -59,
+        "bullrich": 25,
+        "massa": -23,
+        "schiaretti": -14
+    },
+    {
+        "milei": 78,
+        "bregman": -70,
+        "bullrich": 30,
+        "massa": -14,
+        "schiaretti": -25
+    },
+    {
+        "milei": 75,
+        "bregman": -32,
+        "bullrich": 38,
+        "massa": -11,
+        "schiaretti": -16
+    },
+    {
+        "milei": 64,
+        "bregman": -83,
+        "bullrich": 18,
+        "massa": -15,
+        "schiaretti": -11
+    },
+    {
+        "milei": 17,
+        "bregman": -92,
+        "bullrich": 43,
+        "massa": -18,
+        "schiaretti": 25
+    },
+    {
+        "milei": 34,
+        "bregman": -61,
+        "bullrich": 39,
+        "massa": -18,
+        "schiaretti": 5
+    },
+    {
+        "milei": 74,
+        "bregman": -92,
+        "bullrich": 6,
+        "massa": 2,
+        "schiaretti": 18
+    },
+    {
+        "milei": 54,
+        "bregman": -66,
+        "bullrich": 46,
+        "massa": -41,
+        "schiaretti": 22
+    },
+    {
+        "milei": 2,
+        "bregman": -49,
+        "bullrich": 44,
+        "massa": -24,
+        "schiaretti": 18
+    },
+    {
+        "milei": 48,
+        "bregman": -11,
+        "bullrich": 32,
+        "massa": -40,
+        "schiaretti": -21
+    },
+    {
+        "milei": 67,
+        "bregman": -57,
+        "bullrich": -5,
+        "massa": 7,
+        "schiaretti": -16
+    },
+    {
+        "milei": 91,
+        "bregman": -11,
+        "bullrich": 28,
+        "massa": -27,
+        "schiaretti": 13
+    },
+    {
+        "milei": 85,
+        "bregman": -31,
+        "bullrich": -10,
+        "massa": -17,
+        "schiaretti": -21
+    },
+    {
+        "milei": 37,
+        "bregman": -9,
+        "bullrich": -2,
+        "massa": -24,
+        "schiaretti": 19
+    },
+    {
+        "milei": 51,
+        "bregman": -76,
+        "bullrich": 2,
+        "massa": -32,
+        "schiaretti": -14
+    },
+    {
+        "milei": 47,
+        "bregman": -94,
+        "bullrich": 5,
+        "massa": -19,
+        "schiaretti": -9
+    },
+    {
+        "milei": 84,
+        "bregman": -54,
+        "bullrich": -6,
+        "massa": -13,
+        "schiaretti": 12
+    },
+    {
+        "milei": 99,
+        "bregman": -19,
+        "bullrich": 6,
+        "massa": 7,
+        "schiaretti": -10
+    },
+    {
+        "milei": 2,
+        "bregman": -6,
+        "bullrich": 11,
+        "massa": -40,
+        "schiaretti": -10
+    },
+    {
+        "milei": 27,
+        "bregman": -46,
+        "bullrich": 23,
+        "massa": -5,
+        "schiaretti": 20
+    },
+    {
+        "milei": 41,
+        "bregman": -85,
+        "bullrich": 39,
+        "massa": 6,
+        "schiaretti": -11
+    },
+    {
+        "milei": 30,
+        "bregman": -12,
+        "bullrich": 25,
+        "massa": -46,
+        "schiaretti": 24
+    },
+    {
+        "milei": 13,
+        "bregman": -41,
+        "bullrich": 29,
+        "massa": -32,
+        "schiaretti": 16
+    },
+    {
+        "milei": 61,
+        "bregman": -47,
+        "bullrich": 21,
+        "massa": -18,
+        "schiaretti": -13
+    },
+    {
+        "milei": 0,
+        "bregman": -20,
+        "bullrich": 40,
+        "massa": -23,
+        "schiaretti": 5
+    },
+    {
+        "milei": 20,
+        "bregman": -70,
+        "bullrich": 1,
+        "massa": -43,
+        "schiaretti": -16
+    },
+    {
+        "milei": 6,
+        "bregman": -64,
+        "bullrich": 11,
+        "massa": -8,
+        "schiaretti": 0
+    },
+    {
+        "milei": 93,
+        "bregman": -30,
+        "bullrich": 11,
+        "massa": 4,
+        "schiaretti": -22
+    },
+    {
+        "milei": 32,
+        "bregman": -7,
+        "bullrich": 7,
+        "massa": -40,
+        "schiaretti": -3
+    },
+    {
+        "milei": 4,
+        "bregman": -31,
+        "bullrich": 43,
+        "massa": -22,
+        "schiaretti": -15
+    },
+    {
+        "milei": 98,
+        "bregman": -67,
+        "bullrich": 18,
+        "massa": -6,
+        "schiaretti": -17
+    },
+    {
+        "milei": 8,
+        "bregman": -63,
+        "bullrich": 42,
+        "massa": -22,
+        "schiaretti": 2
+    },
+    {
+        "milei": 20,
+        "bregman": -62,
+        "bullrich": 38,
+        "massa": -28,
+        "schiaretti": -23
+    },
+    {
+        "milei": 79,
+        "bregman": -38,
+        "bullrich": 41,
+        "massa": -15,
+        "schiaretti": 23
+    },
+    {
+        "milei": 36,
+        "bregman": -50,
+        "bullrich": -10,
+        "massa": 1,
+        "schiaretti": -3
+    },
+    {
+        "milei": 83,
+        "bregman": -35,
+        "bullrich": 20,
+        "massa": -50,
+        "schiaretti": -2
+    },
+    {
+        "milei": 70,
+        "bregman": -21,
+        "bullrich": 19,
+        "massa": -35,
+        "schiaretti": 27
+    },
+    {
+        "milei": 5,
+        "bregman": -18,
+        "bullrich": 44,
+        "massa": -50,
+        "schiaretti": 5
+    },
+    {
+        "milei": 9,
+        "bregman": -61,
+        "bullrich": 26,
+        "massa": -34,
+        "schiaretti": 7
+    },
+    {
+        "milei": 67,
+        "bregman": -98,
+        "bullrich": 21,
+        "massa": 4,
+        "schiaretti": -14
+    },
+    {
+        "milei": 71,
+        "bregman": -100,
+        "bullrich": 38,
+        "massa": -6,
+        "schiaretti": 11
+    },
+    {
+        "milei": 75,
+        "bregman": -94,
+        "bullrich": -4,
+        "massa": 0,
+        "schiaretti": -1
+    },
+    {
+        "milei": 14,
+        "bregman": -93,
+        "bullrich": 30,
+        "massa": -26,
+        "schiaretti": -23
+    },
+    {
+        "milei": 7,
+        "bregman": -38,
+        "bullrich": 42,
+        "massa": 9,
+        "schiaretti": 0
+    },
+    {
+        "milei": 30,
+        "bregman": -76,
+        "bullrich": 37,
+        "massa": -42,
+        "schiaretti": 5
+    },
+    {
+        "milei": 26,
+        "bregman": -33,
+        "bullrich": 6,
+        "massa": -6,
+        "schiaretti": 30
+    },
+    {
+        "milei": 74,
+        "bregman": -73,
+        "bullrich": 13,
+        "massa": -26,
+        "schiaretti": -2
+    },
+    {
+        "milei": 21,
+        "bregman": -44,
+        "bullrich": 10,
+        "massa": -19,
+        "schiaretti": 0
+    },
+    {
+        "milei": 78,
+        "bregman": -69,
+        "bullrich": 1,
+        "massa": -37,
+        "schiaretti": 29
+    },
+    {
+        "milei": 25,
+        "bregman": -72,
+        "bullrich": 45,
+        "massa": -29,
+        "schiaretti": 28
+    },
+    {
+        "milei": 47,
+        "bregman": -99,
+        "bullrich": 12,
+        "massa": -47,
+        "schiaretti": 5
+    },
+    {
+        "milei": 92,
+        "bregman": -46,
+        "bullrich": 36,
+        "massa": -28,
+        "schiaretti": 17
+    },
+    {
+        "milei": 46,
+        "bregman": -72,
+        "bullrich": 34,
+        "massa": -39,
+        "schiaretti": -16
+    },
+    {
+        "milei": 84,
+        "bregman": -42,
+        "bullrich": -2,
+        "massa": 1,
+        "schiaretti": 26
+    },
+    {
+        "milei": 36,
+        "bregman": -16,
+        "bullrich": 36,
+        "massa": -3,
+        "schiaretti": -22
+    },
+    {
+        "milei": 47,
+        "bregman": -15,
+        "bullrich": 19,
+        "massa": -43,
+        "schiaretti": -19
+    },
+    {
+        "milei": 24,
+        "bregman": -35,
+        "bullrich": 0,
+        "massa": -30,
+        "schiaretti": 6
+    },
+    {
+        "milei": 78,
+        "bregman": -66,
+        "bullrich": 40,
+        "massa": -10,
+        "schiaretti": 13
+    },
+    {
+        "milei": 58,
+        "bregman": -43,
+        "bullrich": -4,
+        "massa": -41,
+        "schiaretti": -25
+    },
+    {
+        "milei": 62,
+        "bregman": -32,
+        "bullrich": -6,
+        "massa": -23,
+        "schiaretti": -27
+    },
+    {
+        "milei": 19,
+        "bregman": -43,
+        "bullrich": 48,
+        "massa": -13,
+        "schiaretti": 12
+    },
+    {
+        "milei": 25,
+        "bregman": -76,
+        "bullrich": 41,
+        "massa": -9,
+        "schiaretti": -28
+    },
+    {
+        "milei": 75,
+        "bregman": -60,
+        "bullrich": 8,
+        "massa": -47,
+        "schiaretti": -9
+    },
+    {
+        "milei": 10,
+        "bregman": -12,
+        "bullrich": -1,
+        "massa": -39,
+        "schiaretti": -5
+    },
+    {
+        "milei": 7,
+        "bregman": -81,
+        "bullrich": 35,
+        "massa": -42,
+        "schiaretti": 7
+    },
+    {
+        "milei": 16,
+        "bregman": -57,
+        "bullrich": 44,
+        "massa": -19,
+        "schiaretti": 27
+    },
+    {
+        "milei": 33,
+        "bregman": -34,
+        "bullrich": -6,
+        "massa": -9,
+        "schiaretti": 1
+    },
+    {
+        "milei": 50,
+        "bregman": -85,
+        "bullrich": 43,
+        "massa": -50,
+        "schiaretti": 10
+    },
+    {
+        "milei": 31,
+        "bregman": -48,
+        "bullrich": 48,
+        "massa": -39,
+        "schiaretti": -5
+    },
+    {
+        "milei": 2,
+        "bregman": -43,
+        "bullrich": 11,
+        "massa": 1,
+        "schiaretti": 21
+    },
+    {
+        "milei": 43,
+        "bregman": -87,
+        "bullrich": 40,
+        "massa": -21,
+        "schiaretti": 22
+    },
+    {
+        "milei": 30,
+        "bregman": -68,
+        "bullrich": 46,
+        "massa": -4,
+        "schiaretti": -23
+    },
+    {
+        "milei": 39,
+        "bregman": -21,
+        "bullrich": 30,
+        "massa": -42,
+        "schiaretti": 18
+    },
+    {
+        "milei": 72,
+        "bregman": -86,
+        "bullrich": -5,
+        "massa": -40,
+        "schiaretti": 30
+    },
+    {
+        "milei": 69,
+        "bregman": -12,
+        "bullrich": 11,
+        "massa": -39,
+        "schiaretti": 1
+    },
+    {
+        "milei": 4,
+        "bregman": -31,
+        "bullrich": -9,
+        "massa": -13,
+        "schiaretti": -13
+    },
+    {
+        "milei": 60,
+        "bregman": -14,
+        "bullrich": 18,
+        "massa": -17,
+        "schiaretti": -19
+    },
+    {
+        "milei": 22,
+        "bregman": -37,
+        "bullrich": 13,
+        "massa": -50,
+        "schiaretti": -23
+    },
+    {
+        "milei": 3,
+        "bregman": -36,
+        "bullrich": 42,
+        "massa": -18,
+        "schiaretti": 8
+    },
+    {
+        "milei": 69,
+        "bregman": -3,
+        "bullrich": 41,
+        "massa": -27,
+        "schiaretti": -1
+    },
+    {
+        "milei": 40,
+        "bregman": -30,
+        "bullrich": 4,
+        "massa": -5,
+        "schiaretti": -21
+    },
+    {
+        "milei": 98,
+        "bregman": -47,
+        "bullrich": 44,
+        "massa": -24,
+        "schiaretti": -27
+    },
+    {
+        "milei": 64,
+        "bregman": -15,
+        "bullrich": 12,
+        "massa": -16,
+        "schiaretti": 15
+    },
+    {
+        "milei": 68,
+        "bregman": -50,
+        "bullrich": 47,
+        "massa": -9,
+        "schiaretti": -2
+    },
+    {
+        "milei": 98,
+        "bregman": -5,
+        "bullrich": 27,
+        "massa": -34,
+        "schiaretti": 3
+    },
+    {
+        "milei": 76,
+        "bregman": -3,
+        "bullrich": 15,
+        "massa": -49,
+        "schiaretti": 3
+    },
+    {
+        "milei": 30,
+        "bregman": -40,
+        "bullrich": 11,
+        "massa": -30,
+        "schiaretti": -5
+    },
+    {
+        "milei": 36,
+        "bregman": -6,
+        "bullrich": 41,
+        "massa": -43,
+        "schiaretti": 29
+    },
+    {
+        "milei": 23,
+        "bregman": -3,
+        "bullrich": 31,
+        "massa": -46,
+        "schiaretti": 25
+    },
+    {
+        "milei": 73,
+        "bregman": -87,
+        "bullrich": 13,
+        "massa": -18,
+        "schiaretti": 14
+    },
+    {
+        "milei": 91,
+        "bregman": -35,
+        "bullrich": -1,
+        "massa": -33,
+        "schiaretti": 1
+    },
+    {
+        "milei": 20,
+        "bregman": -55,
+        "bullrich": 41,
+        "massa": -13,
+        "schiaretti": 13
+    },
+    {
+        "milei": 22,
+        "bregman": -72,
+        "bullrich": 41,
+        "massa": -38,
+        "schiaretti": 28
+    },
+    {
+        "milei": 65,
+        "bregman": -96,
+        "bullrich": 13,
+        "massa": -49,
+        "schiaretti": 23
+    },
+    {
+        "milei": 80,
+        "bregman": -11,
+        "bullrich": 7,
+        "massa": -24,
+        "schiaretti": 3
+    },
+    {
+        "milei": 79,
+        "bregman": -48,
+        "bullrich": 19,
+        "massa": -10,
+        "schiaretti": 28
+    },
+    {
+        "milei": 91,
+        "bregman": -53,
+        "bullrich": 42,
+        "massa": -22,
+        "schiaretti": -22
+    },
+    {
+        "milei": 81,
+        "bregman": -30,
+        "bullrich": 49,
+        "massa": -45,
+        "schiaretti": 14
+    },
+    {
+        "milei": 82,
+        "bregman": -78,
+        "bullrich": 25,
+        "massa": 7,
+        "schiaretti": 17
+    },
+    {
+        "milei": 79,
+        "bregman": -47,
+        "bullrich": 14,
+        "massa": -18,
+        "schiaretti": -20
+    },
+    {
+        "milei": 25,
+        "bregman": -80,
+        "bullrich": 13,
+        "massa": -18,
+        "schiaretti": 20
+    },
+    {
+        "milei": 65,
+        "bregman": -33,
+        "bullrich": 31,
+        "massa": -21,
+        "schiaretti": 3
+    },
+    {
+        "milei": 97,
+        "bregman": -66,
+        "bullrich": 15,
+        "massa": -34,
+        "schiaretti": 30
+    },
+    {
+        "milei": 30,
+        "bregman": -58,
+        "bullrich": 43,
+        "massa": -25,
+        "schiaretti": 14
+    },
+    {
+        "milei": 31,
+        "bregman": -61,
+        "bullrich": 21,
+        "massa": 4,
+        "schiaretti": -12
+    },
+    {
+        "milei": 13,
+        "bregman": -58,
+        "bullrich": 20,
+        "massa": 4,
+        "schiaretti": 15
+    },
+    {
+        "milei": 8,
+        "bregman": -69,
+        "bullrich": -10,
+        "massa": -28,
+        "schiaretti": 2
+    },
+    {
+        "milei": 75,
+        "bregman": -71,
+        "bullrich": 0,
+        "massa": -50,
+        "schiaretti": 4
+    },
+    {
+        "milei": 55,
+        "bregman": -13,
+        "bullrich": 8,
+        "massa": -44,
+        "schiaretti": 30
+    },
+    {
+        "milei": 65,
+        "bregman": -72,
+        "bullrich": 0,
+        "massa": -23,
+        "schiaretti": 20
+    },
+    {
+        "milei": 30,
+        "bregman": -35,
+        "bullrich": 20,
+        "massa": -30,
+        "schiaretti": 0
+    },
+    {
+        "milei": 20,
+        "bregman": -13,
+        "bullrich": 43,
+        "massa": -1,
+        "schiaretti": 3
+    },
+    {
+        "milei": 79,
+        "bregman": -37,
+        "bullrich": 33,
+        "massa": -40,
+        "schiaretti": -24
+    },
+    {
+        "milei": 85,
+        "bregman": -25,
+        "bullrich": 37,
+        "massa": -34,
+        "schiaretti": -11
+    },
+    {
+        "milei": 11,
+        "bregman": -56,
+        "bullrich": 27,
+        "massa": -45,
+        "schiaretti": -23
+    },
+    {
+        "milei": 20,
+        "bregman": -68,
+        "bullrich": 16,
+        "massa": -25,
+        "schiaretti": -5
+    },
+    {
+        "milei": 32,
+        "bregman": -72,
+        "bullrich": 22,
+        "massa": -5,
+        "schiaretti": 23
+    },
+    {
+        "milei": 84,
+        "bregman": -58,
+        "bullrich": 34,
+        "massa": -44,
+        "schiaretti": -30
+    },
+    {
+        "milei": 73,
+        "bregman": -73,
+        "bullrich": 19,
+        "massa": -18,
+        "schiaretti": 16
+    },
+    {
+        "milei": 61,
+        "bregman": -68,
+        "bullrich": 48,
+        "massa": -17,
+        "schiaretti": -10
+    },
+    {
+        "milei": 49,
+        "bregman": -42,
+        "bullrich": 19,
+        "massa": -37,
+        "schiaretti": -5
+    },
+    {
+        "milei": 79,
+        "bregman": -9,
+        "bullrich": -8,
+        "massa": -17,
+        "schiaretti": -7
+    },
+    {
+        "milei": 81,
+        "bregman": -98,
+        "bullrich": 8,
+        "massa": 0,
+        "schiaretti": 1
+    },
+    {
+        "milei": 27,
+        "bregman": -5,
+        "bullrich": 31,
+        "massa": -38,
+        "schiaretti": 20
+    },
+    {
+        "milei": 77,
+        "bregman": -71,
+        "bullrich": 50,
+        "massa": -10,
+        "schiaretti": 17
+    },
+    {
+        "milei": 14,
+        "bregman": -18,
+        "bullrich": 20,
+        "massa": 9,
+        "schiaretti": 21
+    },
+    {
+        "milei": 16,
+        "bregman": -95,
+        "bullrich": -3,
+        "massa": 10,
+        "schiaretti": 11
+    },
+    {
+        "milei": 65,
+        "bregman": -39,
+        "bullrich": 50,
+        "massa": -29,
+        "schiaretti": 14
+    },
+    {
+        "milei": 86,
+        "bregman": -98,
+        "bullrich": 14,
+        "massa": -32,
+        "schiaretti": 24
+    },
+    {
+        "milei": 15,
+        "bregman": -86,
+        "bullrich": -4,
+        "massa": -50,
+        "schiaretti": 26
+    },
+    {
+        "milei": 52,
+        "bregman": -82,
+        "bullrich": 31,
+        "massa": -9,
+        "schiaretti": 3
+    },
+    {
+        "milei": 73,
+        "bregman": -18,
+        "bullrich": 19,
+        "massa": 10,
+        "schiaretti": 2
+    },
+    {
+        "milei": 63,
+        "bregman": -18,
+        "bullrich": 22,
+        "massa": -31,
+        "schiaretti": -24
+    },
+    {
+        "milei": 25,
+        "bregman": -84,
+        "bullrich": -7,
+        "massa": -4,
+        "schiaretti": 11
+    },
+    {
+        "milei": 41,
+        "bregman": -34,
+        "bullrich": -10,
+        "massa": 6,
+        "schiaretti": -22
+    },
+    {
+        "milei": 12,
+        "bregman": -88,
+        "bullrich": 21,
+        "massa": 10,
+        "schiaretti": 7
+    },
+    {
+        "milei": 4,
+        "bregman": -49,
+        "bullrich": 37,
+        "massa": -21,
+        "schiaretti": -3
+    },
+    {
+        "milei": 70,
+        "bregman": -97,
+        "bullrich": 45,
+        "massa": -16,
+        "schiaretti": -27
+    },
+    {
+        "milei": 99,
+        "bregman": -93,
+        "bullrich": 28,
+        "massa": -20,
+        "schiaretti": -5
+    },
+    {
+        "milei": 18,
+        "bregman": -87,
+        "bullrich": 15,
+        "massa": 8,
+        "schiaretti": 29
+    },
+    {
+        "milei": 87,
+        "bregman": -61,
+        "bullrich": 31,
+        "massa": 7,
+        "schiaretti": -11
+    },
+    {
+        "milei": 85,
+        "bregman": -82,
+        "bullrich": 50,
+        "massa": -7,
+        "schiaretti": 12
+    },
+    {
+        "milei": 63,
+        "bregman": -50,
+        "bullrich": 28,
+        "massa": -21,
+        "schiaretti": -16
+    },
+    {
+        "milei": 77,
+        "bregman": -41,
+        "bullrich": -4,
+        "massa": -43,
+        "schiaretti": 7
+    },
+    {
+        "milei": 18,
+        "bregman": -98,
+        "bullrich": 34,
+        "massa": -36,
+        "schiaretti": 20
+    },
+    {
+        "milei": 58,
+        "bregman": -46,
+        "bullrich": -10,
+        "massa": -6,
+        "schiaretti": -13
+    },
+    {
+        "milei": 67,
+        "bregman": -78,
+        "bullrich": 28,
+        "massa": -2,
+        "schiaretti": -3
+    },
+    {
+        "milei": 47,
+        "bregman": -13,
+        "bullrich": -8,
+        "massa": -18,
+        "schiaretti": -19
+    },
+    {
+        "milei": 10,
+        "bregman": -72,
+        "bullrich": 24,
+        "massa": -46,
+        "schiaretti": -26
+    },
+    {
+        "milei": 29,
+        "bregman": -83,
+        "bullrich": 45,
+        "massa": -16,
+        "schiaretti": 11
+    },
+    {
+        "milei": 23,
+        "bregman": -69,
+        "bullrich": 16,
+        "massa": -16,
+        "schiaretti": -15
+    },
+    {
+        "milei": 54,
+        "bregman": -44,
+        "bullrich": 38,
+        "massa": -42,
+        "schiaretti": 23
+    },
+    {
+        "milei": 95,
+        "bregman": -95,
+        "bullrich": -8,
+        "massa": 6,
+        "schiaretti": 4
+    },
+    {
+        "milei": 6,
+        "bregman": -66,
+        "bullrich": 3,
+        "massa": -12,
+        "schiaretti": 19
+    },
+    {
+        "milei": 23,
+        "bregman": -88,
+        "bullrich": 49,
+        "massa": -40,
+        "schiaretti": -18
+    },
+    {
+        "milei": 16,
+        "bregman": -57,
+        "bullrich": 5,
+        "massa": -31,
+        "schiaretti": 11
+    },
+    {
+        "milei": 8,
+        "bregman": -64,
+        "bullrich": 26,
+        "massa": -18,
+        "schiaretti": -4
+    },
+    {
+        "milei": 5,
+        "bregman": -20,
+        "bullrich": 12,
+        "massa": -44,
+        "schiaretti": -7
+    },
+    {
+        "milei": 26,
+        "bregman": -28,
+        "bullrich": 28,
+        "massa": -30,
+        "schiaretti": 12
+    },
+    {
+        "milei": 94,
+        "bregman": -78,
+        "bullrich": 42,
+        "massa": 9,
+        "schiaretti": -22
+    },
+    {
+        "milei": 48,
+        "bregman": -80,
+        "bullrich": 3,
+        "massa": -8,
+        "schiaretti": 13
+    },
+    {
+        "milei": 14,
+        "bregman": -54,
+        "bullrich": 17,
+        "massa": -11,
+        "schiaretti": 5
+    },
+    {
+        "milei": 85,
+        "bregman": -50,
+        "bullrich": 30,
+        "massa": -12,
+        "schiaretti": 29
+    },
+    {
+        "milei": 17,
+        "bregman": -26,
+        "bullrich": 50,
+        "massa": -47,
+        "schiaretti": -4
+    },
+    {
+        "milei": 42,
+        "bregman": -73,
+        "bullrich": 23,
+        "massa": -14,
+        "schiaretti": -25
+    },
+    {
+        "milei": 3,
+        "bregman": -4,
+        "bullrich": -2,
+        "massa": -4,
+        "schiaretti": -23
+    },
+    {
+        "milei": 40,
+        "bregman": -97,
+        "bullrich": 46,
+        "massa": -13,
+        "schiaretti": -9
+    },
+    {
+        "milei": 44,
+        "bregman": -14,
+        "bullrich": 49,
+        "massa": 5,
+        "schiaretti": -16
+    },
+    {
+        "milei": 24,
+        "bregman": -77,
+        "bullrich": 25,
+        "massa": -45,
+        "schiaretti": 29
+    },
+    {
+        "milei": 95,
+        "bregman": -81,
+        "bullrich": 48,
+        "massa": 4,
+        "schiaretti": 13
+    },
+    {
+        "milei": 99,
+        "bregman": -86,
+        "bullrich": 36,
+        "massa": -9,
+        "schiaretti": 14
+    },
+    {
+        "milei": 23,
+        "bregman": -27,
+        "bullrich": 3,
+        "massa": -37,
+        "schiaretti": 28
+    },
+    {
+        "milei": 91,
+        "bregman": -48,
+        "bullrich": 27,
+        "massa": -25,
+        "schiaretti": 3
+    },
+    {
+        "milei": 63,
+        "bregman": -29,
+        "bullrich": 1,
+        "massa": -44,
+        "schiaretti": 17
+    },
+    {
+        "milei": 64,
+        "bregman": -59,
+        "bullrich": 46,
+        "massa": -8,
+        "schiaretti": -7
+    },
+    {
+        "milei": 59,
+        "bregman": -76,
+        "bullrich": 43,
+        "massa": 4,
+        "schiaretti": -23
+    },
+    {
+        "milei": 84,
+        "bregman": 0,
+        "bullrich": 3,
+        "massa": -15,
+        "schiaretti": 21
+    },
+    {
+        "milei": 60,
+        "bregman": -61,
+        "bullrich": 12,
+        "massa": -17,
+        "schiaretti": -3
+    },
+    {
+        "milei": 44,
+        "bregman": -57,
+        "bullrich": 30,
+        "massa": -2,
+        "schiaretti": -16
+    },
+    {
+        "milei": 40,
+        "bregman": -49,
+        "bullrich": 10,
+        "massa": -33,
+        "schiaretti": 11
+    },
+    {
+        "milei": 59,
+        "bregman": -42,
+        "bullrich": 13,
+        "massa": -16,
+        "schiaretti": -28
+    },
+    {
+        "milei": 60,
+        "bregman": -100,
+        "bullrich": -3,
+        "massa": -20,
+        "schiaretti": -22
+    },
+    {
+        "milei": 87,
+        "bregman": -50,
+        "bullrich": 19,
+        "massa": -5,
+        "schiaretti": 15
+    },
+    {
+        "milei": 44,
+        "bregman": -51,
+        "bullrich": 12,
+        "massa": -38,
+        "schiaretti": 11
+    },
+    {
+        "milei": 58,
+        "bregman": -48,
+        "bullrich": 28,
+        "massa": -34,
+        "schiaretti": 8
+    },
+    {
+        "milei": 89,
+        "bregman": -24,
+        "bullrich": 2,
+        "massa": -32,
+        "schiaretti": 10
+    },
+    {
+        "milei": 57,
+        "bregman": -10,
+        "bullrich": 39,
+        "massa": -1,
+        "schiaretti": 7
+    },
+    {
+        "milei": 72,
+        "bregman": -79,
+        "bullrich": 40,
+        "massa": -34,
+        "schiaretti": -10
+    },
+    {
+        "milei": 84,
+        "bregman": -50,
+        "bullrich": 15,
+        "massa": 2,
+        "schiaretti": -16
+    },
+    {
+        "milei": 94,
+        "bregman": -59,
+        "bullrich": 50,
+        "massa": -40,
+        "schiaretti": 23
+    },
+    {
+        "milei": 11,
+        "bregman": -87,
+        "bullrich": 17,
+        "massa": 1,
+        "schiaretti": -11
+    },
+    {
+        "milei": 54,
+        "bregman": -89,
+        "bullrich": -2,
+        "massa": -37,
+        "schiaretti": -9
+    },
+    {
+        "milei": 26,
+        "bregman": -90,
+        "bullrich": 11,
+        "massa": -45,
+        "schiaretti": -15
+    },
+    {
+        "milei": 56,
+        "bregman": -12,
+        "bullrich": 33,
+        "massa": -23,
+        "schiaretti": -23
+    },
+    {
+        "milei": 59,
+        "bregman": -70,
+        "bullrich": 41,
+        "massa": -23,
+        "schiaretti": 25
+    },
+    {
+        "milei": 12,
+        "bregman": -45,
+        "bullrich": 28,
+        "massa": -7,
+        "schiaretti": -12
+    },
+    {
+        "milei": 54,
+        "bregman": -11,
+        "bullrich": 18,
+        "massa": -48,
+        "schiaretti": -19
+    },
+    {
+        "milei": 45,
+        "bregman": -89,
+        "bullrich": 34,
+        "massa": -19,
+        "schiaretti": -28
+    },
+    {
+        "milei": 71,
+        "bregman": -83,
+        "bullrich": 17,
+        "massa": 2,
+        "schiaretti": 5
+    },
+    {
+        "milei": 77,
+        "bregman": -15,
+        "bullrich": 5,
+        "massa": -48,
+        "schiaretti": -23
+    },
+    {
+        "milei": 28,
+        "bregman": -75,
+        "bullrich": -1,
+        "massa": -16,
+        "schiaretti": 20
+    },
+    {
+        "milei": 64,
+        "bregman": -21,
+        "bullrich": 45,
+        "massa": -13,
+        "schiaretti": 16
+    },
+    {
+        "milei": 57,
+        "bregman": -95,
+        "bullrich": 49,
+        "massa": 4,
+        "schiaretti": 17
+    },
+    {
+        "milei": 12,
+        "bregman": -59,
+        "bullrich": 25,
+        "massa": -13,
+        "schiaretti": 26
+    },
+    {
+        "milei": 73,
+        "bregman": -85,
+        "bullrich": 10,
+        "massa": 9,
+        "schiaretti": 16
+    },
+    {
+        "milei": 22,
+        "bregman": -50,
+        "bullrich": 34,
+        "massa": -22,
+        "schiaretti": 6
+    },
+    {
+        "milei": 10,
+        "bregman": -79,
+        "bullrich": 49,
+        "massa": -5,
+        "schiaretti": -9
+    },
+    {
+        "milei": 27,
+        "bregman": -81,
+        "bullrich": 1,
+        "massa": -37,
+        "schiaretti": -28
+    },
+    {
+        "milei": 90,
+        "bregman": -73,
+        "bullrich": -8,
+        "massa": -36,
+        "schiaretti": -4
+    },
+    {
+        "milei": 76,
+        "bregman": -76,
+        "bullrich": 12,
+        "massa": -18,
+        "schiaretti": -15
+    },
+    {
+        "milei": 74,
+        "bregman": -41,
+        "bullrich": 26,
+        "massa": 0,
+        "schiaretti": -3
+    },
+    {
+        "milei": 70,
+        "bregman": -37,
+        "bullrich": 32,
+        "massa": -44,
+        "schiaretti": 12
+    },
+    {
+        "milei": 20,
+        "bregman": -25,
+        "bullrich": 12,
+        "massa": -18,
+        "schiaretti": 23
+    },
+    {
+        "milei": 75,
+        "bregman": -8,
+        "bullrich": 48,
+        "massa": -47,
+        "schiaretti": 10
+    },
+    {
+        "milei": 34,
+        "bregman": -40,
+        "bullrich": 24,
+        "massa": -9,
+        "schiaretti": -7
+    },
+    {
+        "milei": 9,
+        "bregman": -7,
+        "bullrich": -9,
+        "massa": 8,
+        "schiaretti": -28
+    },
+    {
+        "milei": 94,
+        "bregman": -25,
+        "bullrich": 19,
+        "massa": -32,
+        "schiaretti": -19
+    },
+    {
+        "milei": 14,
+        "bregman": -62,
+        "bullrich": 36,
+        "massa": -39,
+        "schiaretti": -28
+    },
+    {
+        "milei": 72,
+        "bregman": -47,
+        "bullrich": -6,
+        "massa": -39,
+        "schiaretti": -2
+    },
+    {
+        "milei": 50,
+        "bregman": -10,
+        "bullrich": 2,
+        "massa": 4,
+        "schiaretti": 30
+    },
+    {
+        "milei": 45,
+        "bregman": -3,
+        "bullrich": -4,
+        "massa": -13,
+        "schiaretti": -20
+    },
+    {
+        "milei": 52,
+        "bregman": -36,
+        "bullrich": 43,
+        "massa": -34,
+        "schiaretti": -24
+    },
+    {
+        "milei": 84,
+        "bregman": -69,
+        "bullrich": 47,
+        "massa": -32,
+        "schiaretti": -8
+    },
+    {
+        "milei": 92,
+        "bregman": -51,
+        "bullrich": 13,
+        "massa": -23,
+        "schiaretti": -15
+    },
+    {
+        "milei": 62,
+        "bregman": -12,
+        "bullrich": 16,
+        "massa": -23,
+        "schiaretti": 28
+    },
+    {
+        "milei": 25,
+        "bregman": -94,
+        "bullrich": 38,
+        "massa": -5,
+        "schiaretti": 6
+    },
+    {
+        "milei": 9,
+        "bregman": -20,
+        "bullrich": 21,
+        "massa": 3,
+        "schiaretti": -19
+    },
+    {
+        "milei": 99,
+        "bregman": -85,
+        "bullrich": 5,
+        "massa": -25,
+        "schiaretti": -3
+    },
+    {
+        "milei": 46,
+        "bregman": -42,
+        "bullrich": 41,
+        "massa": -35,
+        "schiaretti": -4
+    },
+    {
+        "milei": 55,
+        "bregman": -60,
+        "bullrich": 41,
+        "massa": -46,
+        "schiaretti": 18
+    },
+    {
+        "milei": 86,
+        "bregman": -15,
+        "bullrich": 26,
+        "massa": -48,
+        "schiaretti": 15
+    },
+    {
+        "milei": 3,
+        "bregman": -26,
+        "bullrich": 40,
+        "massa": -18,
+        "schiaretti": 23
+    },
+    {
+        "milei": 2,
+        "bregman": -52,
+        "bullrich": 13,
+        "massa": -48,
+        "schiaretti": -15
+    },
+    {
+        "milei": 3,
+        "bregman": -81,
+        "bullrich": 40,
+        "massa": 2,
+        "schiaretti": 14
+    },
+    {
+        "milei": 19,
+        "bregman": -15,
+        "bullrich": -9,
+        "massa": -2,
+        "schiaretti": 5
+    },
+    {
+        "milei": 20,
+        "bregman": -88,
+        "bullrich": 47,
+        "massa": 0,
+        "schiaretti": 3
+    },
+    {
+        "milei": 97,
+        "bregman": -29,
+        "bullrich": 50,
+        "massa": -15,
+        "schiaretti": 28
+    },
+    {
+        "milei": 63,
+        "bregman": -98,
+        "bullrich": 9,
+        "massa": 6,
+        "schiaretti": -16
+    },
+    {
+        "milei": 26,
+        "bregman": -86,
+        "bullrich": 30,
+        "massa": -47,
+        "schiaretti": 10
+    },
+    {
+        "milei": 79,
+        "bregman": -41,
+        "bullrich": 12,
+        "massa": -31,
+        "schiaretti": -30
+    },
+    {
+        "milei": 60,
+        "bregman": -65,
+        "bullrich": 10,
+        "massa": -8,
+        "schiaretti": 18
+    },
+    {
+        "milei": 46,
+        "bregman": -90,
+        "bullrich": 22,
+        "massa": -6,
+        "schiaretti": -26
+    },
+    {
+        "milei": 6,
+        "bregman": -32,
+        "bullrich": 24,
+        "massa": -43,
+        "schiaretti": 0
+    },
+    {
+        "milei": 15,
+        "bregman": -59,
+        "bullrich": -10,
+        "massa": -23,
+        "schiaretti": -18
+    },
+    {
+        "milei": 71,
+        "bregman": -64,
+        "bullrich": 41,
+        "massa": -28,
+        "schiaretti": 27
+    },
+    {
+        "milei": 12,
+        "bregman": -46,
+        "bullrich": -2,
+        "massa": -19,
+        "schiaretti": -7
+    },
+    {
+        "milei": 97,
+        "bregman": -21,
+        "bullrich": 47,
+        "massa": -33,
+        "schiaretti": -3
+    },
+    {
+        "milei": 53,
+        "bregman": -30,
+        "bullrich": -6,
+        "massa": -27,
+        "schiaretti": -4
+    },
+    {
+        "milei": 72,
+        "bregman": -45,
+        "bullrich": -6,
+        "massa": -12,
+        "schiaretti": 8
+    },
+    {
+        "milei": 99,
+        "bregman": -31,
+        "bullrich": 21,
+        "massa": -45,
+        "schiaretti": 20
+    },
+    {
+        "milei": 12,
+        "bregman": -4,
+        "bullrich": 4,
+        "massa": -23,
+        "schiaretti": 0
+    },
+    {
+        "milei": 47,
+        "bregman": -86,
+        "bullrich": 49,
+        "massa": -46,
+        "schiaretti": 28
+    },
+    {
+        "milei": 65,
+        "bregman": -72,
+        "bullrich": 24,
+        "massa": -18,
+        "schiaretti": -20
+    },
+    {
+        "milei": 71,
+        "bregman": -36,
+        "bullrich": 43,
+        "massa": -27,
+        "schiaretti": -22
+    },
+    {
+        "milei": 99,
+        "bregman": -74,
+        "bullrich": 41,
+        "massa": -14,
+        "schiaretti": -23
+    },
+    {
+        "milei": 98,
+        "bregman": -84,
+        "bullrich": -5,
+        "massa": -38,
+        "schiaretti": 25
+    },
+    {
+        "milei": 57,
+        "bregman": -74,
+        "bullrich": 1,
+        "massa": -43,
+        "schiaretti": -11
+    },
+    {
+        "milei": 42,
+        "bregman": -77,
+        "bullrich": -2,
+        "massa": -4,
+        "schiaretti": 27
+    },
+    {
+        "milei": 24,
+        "bregman": -96,
+        "bullrich": 20,
+        "massa": 8,
+        "schiaretti": 13
+    },
+    {
+        "milei": 83,
+        "bregman": -70,
+        "bullrich": 5,
+        "massa": -23,
+        "schiaretti": 1
+    },
+    {
+        "milei": 4,
+        "bregman": -75,
+        "bullrich": 12,
+        "massa": -37,
+        "schiaretti": -1
+    },
+    {
+        "milei": 99,
+        "bregman": -15,
+        "bullrich": 4,
+        "massa": -4,
+        "schiaretti": -5
+    },
+    {
+        "milei": 88,
+        "bregman": -18,
+        "bullrich": -7,
+        "massa": -4,
+        "schiaretti": 15
+    },
+    {
+        "milei": 67,
+        "bregman": -6,
+        "bullrich": 46,
+        "massa": -35,
+        "schiaretti": -11
+    },
+    {
+        "milei": 24,
+        "bregman": -42,
+        "bullrich": -2,
+        "massa": -29,
+        "schiaretti": -18
+    },
+    {
+        "milei": 5,
+        "bregman": -5,
+        "bullrich": -10,
+        "massa": -6,
+        "schiaretti": -2
+    },
+    {
+        "milei": 92,
+        "bregman": -32,
+        "bullrich": -10,
+        "massa": -22,
+        "schiaretti": -1
+    },
+    {
+        "milei": 51,
+        "bregman": -30,
+        "bullrich": -1,
+        "massa": -28,
+        "schiaretti": 3
+    },
+    {
+        "milei": 21,
+        "bregman": -10,
+        "bullrich": 9,
+        "massa": -10,
+        "schiaretti": 28
+    },
+    {
+        "milei": 94,
+        "bregman": -59,
+        "bullrich": 50,
+        "massa": -6,
+        "schiaretti": 2
+    },
+    {
+        "milei": 40,
+        "bregman": -50,
+        "bullrich": 33,
+        "massa": -3,
+        "schiaretti": 8
+    },
+    {
+        "milei": 65,
+        "bregman": -61,
+        "bullrich": -6,
+        "massa": -30,
+        "schiaretti": 26
+    },
+    {
+        "milei": 65,
+        "bregman": -40,
+        "bullrich": 47,
+        "massa": -15,
+        "schiaretti": -21
+    },
+    {
+        "milei": 78,
+        "bregman": -76,
+        "bullrich": 1,
+        "massa": -17,
+        "schiaretti": -3
+    },
+    {
+        "milei": 27,
+        "bregman": -47,
+        "bullrich": 32,
+        "massa": -44,
+        "schiaretti": -27
+    },
+    {
+        "milei": 26,
+        "bregman": -5,
+        "bullrich": 4,
+        "massa": -4,
+        "schiaretti": -4
+    },
+    {
+        "milei": 29,
+        "bregman": -28,
+        "bullrich": 11,
+        "massa": -13,
+        "schiaretti": -9
+    },
+    {
+        "milei": 8,
+        "bregman": -15,
+        "bullrich": -9,
+        "massa": -37,
+        "schiaretti": -10
+    },
+    {
+        "milei": 43,
+        "bregman": -2,
+        "bullrich": 18,
+        "massa": -32,
+        "schiaretti": -23
+    },
+    {
+        "milei": 68,
+        "bregman": -70,
+        "bullrich": 23,
+        "massa": -43,
+        "schiaretti": 7
+    },
+    {
+        "milei": 37,
+        "bregman": -49,
+        "bullrich": 49,
+        "massa": 0,
+        "schiaretti": 29
+    },
+    {
+        "milei": 73,
+        "bregman": 0,
+        "bullrich": -4,
+        "massa": -33,
+        "schiaretti": 5
+    },
+    {
+        "milei": 82,
+        "bregman": -79,
+        "bullrich": 23,
+        "massa": 2,
+        "schiaretti": 20
+    },
+    {
+        "milei": 92,
+        "bregman": -35,
+        "bullrich": 9,
+        "massa": -50,
+        "schiaretti": -2
+    },
+    {
+        "milei": 50,
+        "bregman": -63,
+        "bullrich": -3,
+        "massa": 9,
+        "schiaretti": -24
+    },
+    {
+        "milei": 98,
+        "bregman": -4,
+        "bullrich": 30,
+        "massa": -17,
+        "schiaretti": -4
+    },
+    {
+        "milei": 96,
+        "bregman": -68,
+        "bullrich": 6,
+        "massa": -38,
+        "schiaretti": 26
+    },
+    {
+        "milei": 46,
+        "bregman": -92,
+        "bullrich": 24,
+        "massa": -39,
+        "schiaretti": 16
+    },
+    {
+        "milei": 8,
+        "bregman": 0,
+        "bullrich": 29,
+        "massa": -34,
+        "schiaretti": 15
+    },
+    {
+        "milei": 30,
+        "bregman": -73,
+        "bullrich": 32,
+        "massa": -43,
+        "schiaretti": 10
+    },
+    {
+        "milei": 99,
+        "bregman": 0,
+        "bullrich": 0,
+        "massa": -38,
+        "schiaretti": 9
+    },
+    {
+        "milei": 31,
+        "bregman": -8,
+        "bullrich": 4,
+        "massa": -3,
+        "schiaretti": -27
+    },
+    {
+        "milei": 42,
+        "bregman": -89,
+        "bullrich": 33,
+        "massa": -33,
+        "schiaretti": -27
+    },
+    {
+        "milei": 86,
+        "bregman": -34,
+        "bullrich": -2,
+        "massa": -45,
+        "schiaretti": 11
+    },
+    {
+        "milei": 93,
+        "bregman": -71,
+        "bullrich": 9,
+        "massa": -31,
+        "schiaretti": -10
+    },
+    {
+        "milei": 21,
+        "bregman": -63,
+        "bullrich": 33,
+        "massa": 3,
+        "schiaretti": 30
+    },
+    {
+        "milei": 23,
+        "bregman": -55,
+        "bullrich": 16,
+        "massa": -34,
+        "schiaretti": 15
+    },
+    {
+        "milei": 76,
+        "bregman": -23,
+        "bullrich": 41,
+        "massa": -25,
+        "schiaretti": -19
+    },
+    {
+        "milei": 71,
+        "bregman": -77,
+        "bullrich": -6,
+        "massa": -46,
+        "schiaretti": 2
+    },
+    {
+        "milei": 7,
+        "bregman": -78,
+        "bullrich": 22,
+        "massa": -31,
+        "schiaretti": -2
+    },
+    {
+        "milei": 38,
+        "bregman": -53,
+        "bullrich": 24,
+        "massa": -31,
+        "schiaretti": 13
+    },
+    {
+        "milei": 79,
+        "bregman": -57,
+        "bullrich": 37,
+        "massa": 3,
+        "schiaretti": 24
+    },
+    {
+        "milei": 6,
+        "bregman": -99,
+        "bullrich": 33,
+        "massa": -7,
+        "schiaretti": -21
+    },
+    {
+        "milei": 96,
+        "bregman": -70,
+        "bullrich": 20,
+        "massa": -47,
+        "schiaretti": 8
+    },
+    {
+        "milei": 80,
+        "bregman": -100,
+        "bullrich": 4,
+        "massa": 9,
+        "schiaretti": 17
+    },
+    {
+        "milei": 35,
+        "bregman": -59,
+        "bullrich": 15,
+        "massa": -20,
+        "schiaretti": -28
+    },
+    {
+        "milei": 59,
+        "bregman": -74,
+        "bullrich": 30,
+        "massa": -21,
+        "schiaretti": 23
+    },
+    {
+        "milei": 48,
+        "bregman": -46,
+        "bullrich": 33,
+        "massa": -39,
+        "schiaretti": 18
+    },
+    {
+        "milei": 17,
+        "bregman": -89,
+        "bullrich": 40,
+        "massa": 3,
+        "schiaretti": -8
+    },
+    {
+        "milei": 51,
+        "bregman": -42,
+        "bullrich": 22,
+        "massa": -29,
+        "schiaretti": -28
+    },
+    {
+        "milei": 63,
+        "bregman": -93,
+        "bullrich": 2,
+        "massa": -28,
+        "schiaretti": 22
+    },
+    {
+        "milei": 81,
+        "bregman": -20,
+        "bullrich": 0,
+        "massa": 0,
+        "schiaretti": -19
+    },
+    {
+        "milei": 37,
+        "bregman": -24,
+        "bullrich": 16,
+        "massa": -19,
+        "schiaretti": -30
+    },
+    {
+        "milei": 57,
+        "bregman": -54,
+        "bullrich": 36,
+        "massa": -15,
+        "schiaretti": -1
+    },
+    {
+        "milei": 93,
+        "bregman": -68,
+        "bullrich": 37,
+        "massa": -37,
+        "schiaretti": 20
+    },
+    {
+        "milei": 64,
+        "bregman": -21,
+        "bullrich": 12,
+        "massa": 2,
+        "schiaretti": -2
+    },
+    {
+        "milei": 6,
+        "bregman": -17,
+        "bullrich": 24,
+        "massa": -15,
+        "schiaretti": 21
+    },
+    {
+        "milei": 15,
+        "bregman": -67,
+        "bullrich": 12,
+        "massa": 1,
+        "schiaretti": -27
+    },
+    {
+        "milei": 49,
+        "bregman": -82,
+        "bullrich": 22,
+        "massa": -50,
+        "schiaretti": 10
+    },
+    {
+        "milei": 31,
+        "bregman": -18,
+        "bullrich": 34,
+        "massa": -26,
+        "schiaretti": -24
+    },
+    {
+        "milei": 59,
+        "bregman": -36,
+        "bullrich": 13,
+        "massa": -48,
+        "schiaretti": -1
+    },
+    {
+        "milei": 60,
+        "bregman": 0,
+        "bullrich": 31,
+        "massa": -13,
+        "schiaretti": 4
+    },
+    {
+        "milei": 21,
+        "bregman": -42,
+        "bullrich": 10,
+        "massa": -48,
+        "schiaretti": 8
+    },
+    {
+        "milei": 45,
+        "bregman": -80,
+        "bullrich": 7,
+        "massa": -14,
+        "schiaretti": -1
+    },
+    {
+        "milei": 95,
+        "bregman": -95,
+        "bullrich": 0,
+        "massa": -44,
+        "schiaretti": 5
+    },
+    {
+        "milei": 95,
+        "bregman": -19,
+        "bullrich": 17,
+        "massa": -7,
+        "schiaretti": -11
+    },
+    {
+        "milei": 51,
+        "bregman": 0,
+        "bullrich": 5,
+        "massa": -29,
+        "schiaretti": 25
+    },
+    {
+        "milei": 68,
+        "bregman": -50,
+        "bullrich": 37,
+        "massa": -12,
+        "schiaretti": -23
+    },
+    {
+        "milei": 41,
+        "bregman": -90,
+        "bullrich": 32,
+        "massa": -3,
+        "schiaretti": -18
+    },
+    {
+        "milei": 66,
+        "bregman": -65,
+        "bullrich": 18,
+        "massa": -7,
+        "schiaretti": 8
+    },
+    {
+        "milei": 9,
+        "bregman": -88,
+        "bullrich": 2,
+        "massa": -25,
+        "schiaretti": -14
+    },
+    {
+        "milei": 29,
+        "bregman": -41,
+        "bullrich": 15,
+        "massa": -1,
+        "schiaretti": 2
+    },
+    {
+        "milei": 62,
+        "bregman": -77,
+        "bullrich": 20,
+        "massa": -1,
+        "schiaretti": -3
+    },
+    {
+        "milei": 17,
+        "bregman": -57,
+        "bullrich": 33,
+        "massa": -48,
+        "schiaretti": 9
+    },
+    {
+        "milei": 21,
+        "bregman": -37,
+        "bullrich": 20,
+        "massa": -50,
+        "schiaretti": -19
+    },
+    {
+        "milei": 41,
+        "bregman": -70,
+        "bullrich": 36,
+        "massa": 5,
+        "schiaretti": -5
+    },
+    {
+        "milei": 30,
+        "bregman": -44,
+        "bullrich": 50,
+        "massa": -7,
+        "schiaretti": 19
+    },
+    {
+        "milei": 73,
+        "bregman": -62,
+        "bullrich": 22,
+        "massa": -18,
+        "schiaretti": 23
+    },
+    {
+        "milei": 94,
+        "bregman": -54,
+        "bullrich": 4,
+        "massa": 1,
+        "schiaretti": -14
+    },
+    {
+        "milei": 24,
+        "bregman": -98,
+        "bullrich": 16,
+        "massa": -36,
+        "schiaretti": 3
+    },
+    {
+        "milei": 63,
+        "bregman": -95,
+        "bullrich": 15,
+        "massa": -30,
+        "schiaretti": -1
+    },
+    {
+        "milei": 62,
+        "bregman": -6,
+        "bullrich": 23,
+        "massa": -29,
+        "schiaretti": -6
+    },
+    {
+        "milei": 66,
+        "bregman": -85,
+        "bullrich": 43,
+        "massa": -13,
+        "schiaretti": 29
+    },
+    {
+        "milei": 16,
+        "bregman": -100,
+        "bullrich": 16,
+        "massa": 10,
+        "schiaretti": -28
+    },
+    {
+        "milei": 38,
+        "bregman": -62,
+        "bullrich": -6,
+        "massa": -3,
+        "schiaretti": 13
+    },
+    {
+        "milei": 20,
+        "bregman": -49,
+        "bullrich": 40,
+        "massa": -21,
+        "schiaretti": 24
+    },
+    {
+        "milei": 7,
+        "bregman": -70,
+        "bullrich": 23,
+        "massa": 2,
+        "schiaretti": -18
+    },
+    {
+        "milei": 68,
+        "bregman": -21,
+        "bullrich": 37,
+        "massa": -26,
+        "schiaretti": -5
+    },
+    {
+        "milei": 52,
+        "bregman": -79,
+        "bullrich": 12,
+        "massa": -37,
+        "schiaretti": 14
+    },
+    {
+        "milei": 93,
+        "bregman": -88,
+        "bullrich": 6,
+        "massa": -13,
+        "schiaretti": 20
+    },
+    {
+        "milei": 18,
+        "bregman": -39,
+        "bullrich": 19,
+        "massa": 10,
+        "schiaretti": 30
+    },
+    {
+        "milei": 98,
+        "bregman": -11,
+        "bullrich": 18,
+        "massa": 1,
+        "schiaretti": -19
+    },
+    {
+        "milei": 23,
+        "bregman": -33,
+        "bullrich": 10,
+        "massa": -19,
+        "schiaretti": -1
+    },
+    {
+        "milei": 95,
+        "bregman": -94,
+        "bullrich": 42,
+        "massa": -15,
+        "schiaretti": -14
+    },
+    {
+        "milei": 11,
+        "bregman": -17,
+        "bullrich": 34,
+        "massa": 1,
+        "schiaretti": 30
+    },
+    {
+        "milei": 38,
+        "bregman": -55,
+        "bullrich": 42,
+        "massa": -33,
+        "schiaretti": 11
+    },
+    {
+        "milei": 60,
+        "bregman": -34,
+        "bullrich": 42,
+        "massa": -8,
+        "schiaretti": -17
+    },
+    {
+        "milei": 74,
+        "bregman": -53,
+        "bullrich": 10,
+        "massa": -45,
+        "schiaretti": -30
+    },
+    {
+        "milei": 82,
+        "bregman": -26,
+        "bullrich": -3,
+        "massa": -1,
+        "schiaretti": 29
+    },
+    {
+        "milei": 27,
+        "bregman": -40,
+        "bullrich": -4,
+        "massa": -32,
+        "schiaretti": -2
+    },
+    {
+        "milei": 23,
+        "bregman": -41,
+        "bullrich": -10,
+        "massa": -27,
+        "schiaretti": 22
+    },
+    {
+        "milei": 74,
+        "bregman": -79,
+        "bullrich": 18,
+        "massa": -18,
+        "schiaretti": 18
+    },
+    {
+        "milei": 74,
+        "bregman": -45,
+        "bullrich": 28,
+        "massa": 1,
+        "schiaretti": -28
+    },
+    {
+        "milei": 65,
+        "bregman": -87,
+        "bullrich": 25,
+        "massa": -6,
+        "schiaretti": 22
+    },
+    {
+        "milei": 79,
+        "bregman": -66,
+        "bullrich": 11,
+        "massa": -1,
+        "schiaretti": 2
+    },
+    {
+        "milei": 57,
+        "bregman": -97,
+        "bullrich": -8,
+        "massa": 7,
+        "schiaretti": 21
+    },
+    {
+        "milei": 9,
+        "bregman": -75,
+        "bullrich": 22,
+        "massa": -6,
+        "schiaretti": 1
+    },
+    {
+        "milei": 40,
+        "bregman": -59,
+        "bullrich": -5,
+        "massa": 8,
+        "schiaretti": -27
+    },
+    {
+        "milei": 53,
+        "bregman": -65,
+        "bullrich": 24,
+        "massa": -42,
+        "schiaretti": -18
+    },
+    {
+        "milei": 15,
+        "bregman": -35,
+        "bullrich": 11,
+        "massa": -42,
+        "schiaretti": -22
+    },
+    {
+        "milei": 26,
+        "bregman": -84,
+        "bullrich": 12,
+        "massa": -35,
+        "schiaretti": 7
+    },
+    {
+        "milei": 34,
+        "bregman": -94,
+        "bullrich": 11,
+        "massa": 4,
+        "schiaretti": -7
+    },
+    {
+        "milei": 23,
+        "bregman": -44,
+        "bullrich": 5,
+        "massa": -13,
+        "schiaretti": 28
+    },
+    {
+        "milei": 67,
+        "bregman": -88,
+        "bullrich": -10,
+        "massa": 8,
+        "schiaretti": 21
+    },
+    {
+        "milei": 39,
+        "bregman": -13,
+        "bullrich": 34,
+        "massa": -39,
+        "schiaretti": 21
+    },
+    {
+        "milei": 78,
+        "bregman": -35,
+        "bullrich": 10,
+        "massa": -25,
+        "schiaretti": 10
+    },
+    {
+        "milei": 11,
+        "bregman": -12,
+        "bullrich": 12,
+        "massa": -3,
+        "schiaretti": 29
+    },
+    {
+        "milei": 65,
+        "bregman": 0,
+        "bullrich": 33,
+        "massa": -5,
+        "schiaretti": 18
+    },
+    {
+        "milei": 55,
+        "bregman": -42,
+        "bullrich": 22,
+        "massa": -12,
+        "schiaretti": -15
+    },
+    {
+        "milei": 57,
+        "bregman": -56,
+        "bullrich": 33,
+        "massa": -35,
+        "schiaretti": 14
+    },
+    {
+        "milei": 28,
+        "bregman": -9,
+        "bullrich": 7,
+        "massa": -23,
+        "schiaretti": -13
+    },
+    {
+        "milei": 34,
+        "bregman": -10,
+        "bullrich": 6,
+        "massa": -21,
+        "schiaretti": -28
+    },
+    {
+        "milei": 3,
+        "bregman": -99,
+        "bullrich": 47,
+        "massa": -6,
+        "schiaretti": 15
+    },
+    {
+        "milei": 60,
+        "bregman": -60,
+        "bullrich": 35,
+        "massa": 8,
+        "schiaretti": -10
+    },
+    {
+        "milei": 0,
+        "bregman": -19,
+        "bullrich": 29,
+        "massa": -31,
+        "schiaretti": -23
+    },
+    {
+        "milei": 37,
+        "bregman": -71,
+        "bullrich": -5,
+        "massa": -20,
+        "schiaretti": -7
+    },
+    {
+        "milei": 62,
+        "bregman": -48,
+        "bullrich": 22,
+        "massa": -23,
+        "schiaretti": 16
+    },
+    {
+        "milei": 87,
+        "bregman": -59,
+        "bullrich": -3,
+        "massa": -11,
+        "schiaretti": -11
+    },
+    {
+        "milei": 85,
+        "bregman": -55,
+        "bullrich": 45,
+        "massa": -5,
+        "schiaretti": -30
+    },
+    {
+        "milei": 87,
+        "bregman": -84,
+        "bullrich": 43,
+        "massa": -30,
+        "schiaretti": -20
+    },
+    {
+        "milei": 87,
+        "bregman": -31,
+        "bullrich": -3,
+        "massa": -12,
+        "schiaretti": -19
+    },
+    {
+        "milei": 62,
+        "bregman": -36,
+        "bullrich": 0,
+        "massa": -13,
+        "schiaretti": -10
+    },
+    {
+        "milei": 8,
+        "bregman": -29,
+        "bullrich": -10,
+        "massa": -21,
+        "schiaretti": -19
+    },
+    {
+        "milei": 11,
+        "bregman": -4,
+        "bullrich": 39,
+        "massa": 0,
+        "schiaretti": 21
+    },
+    {
+        "milei": 78,
+        "bregman": -67,
+        "bullrich": 30,
+        "massa": -19,
+        "schiaretti": 17
+    },
+    {
+        "milei": 56,
+        "bregman": -52,
+        "bullrich": 5,
+        "massa": 0,
+        "schiaretti": -13
+    },
+    {
+        "milei": 53,
+        "bregman": -16,
+        "bullrich": 26,
+        "massa": -1,
+        "schiaretti": -27
+    },
+    {
+        "milei": 100,
+        "bregman": -98,
+        "bullrich": 47,
+        "massa": -19,
+        "schiaretti": -22
+    },
+    {
+        "milei": 21,
+        "bregman": -100,
+        "bullrich": 10,
+        "massa": -7,
+        "schiaretti": 1
+    },
+    {
+        "milei": 31,
+        "bregman": -76,
+        "bullrich": 27,
+        "massa": -50,
+        "schiaretti": -12
+    },
+    {
+        "milei": 34,
+        "bregman": -9,
+        "bullrich": -6,
+        "massa": -32,
+        "schiaretti": -4
+    },
+    {
+        "milei": 31,
+        "bregman": -26,
+        "bullrich": 44,
+        "massa": -18,
+        "schiaretti": -7
+    },
+    {
+        "milei": 86,
+        "bregman": -86,
+        "bullrich": 46,
+        "massa": -6,
+        "schiaretti": 14
+    },
+    {
+        "milei": 2,
+        "bregman": -84,
+        "bullrich": 14,
+        "massa": -50,
+        "schiaretti": 12
+    },
+    {
+        "milei": 6,
+        "bregman": -87,
+        "bullrich": 11,
+        "massa": 1,
+        "schiaretti": 7
+    },
+    {
+        "milei": 50,
+        "bregman": -87,
+        "bullrich": 50,
+        "massa": -28,
+        "schiaretti": 26
+    },
+    {
+        "milei": 87,
+        "bregman": -83,
+        "bullrich": 19,
+        "massa": -11,
+        "schiaretti": -27
+    },
+    {
+        "milei": 18,
+        "bregman": -37,
+        "bullrich": 46,
+        "massa": -46,
+        "schiaretti": 28
+    },
+    {
+        "milei": 3,
+        "bregman": -66,
+        "bullrich": 44,
+        "massa": -20,
+        "schiaretti": -18
+    },
+    {
+        "milei": 90,
+        "bregman": -38,
+        "bullrich": 31,
+        "massa": -49,
+        "schiaretti": 13
+    },
+    {
+        "milei": 27,
+        "bregman": -91,
+        "bullrich": 43,
+        "massa": -47,
+        "schiaretti": -25
+    },
+    {
+        "milei": 62,
+        "bregman": -21,
+        "bullrich": 36,
+        "massa": -27,
+        "schiaretti": -24
+    },
+    {
+        "milei": 8,
+        "bregman": -2,
+        "bullrich": 30,
+        "massa": -50,
+        "schiaretti": 19
+    },
+    {
+        "milei": 35,
+        "bregman": -14,
+        "bullrich": 18,
+        "massa": -49,
+        "schiaretti": -3
+    },
+    {
+        "milei": 43,
+        "bregman": -51,
+        "bullrich": 7,
+        "massa": -41,
+        "schiaretti": 13
+    },
+    {
+        "milei": 14,
+        "bregman": -98,
+        "bullrich": 47,
+        "massa": -19,
+        "schiaretti": -15
+    },
+    {
+        "milei": 86,
+        "bregman": -61,
+        "bullrich": 1,
+        "massa": 10,
+        "schiaretti": -11
+    },
+    {
+        "milei": 82,
+        "bregman": -27,
+        "bullrich": 46,
+        "massa": -11,
+        "schiaretti": 4
+    },
+    {
+        "milei": 58,
+        "bregman": -38,
+        "bullrich": 30,
+        "massa": -17,
+        "schiaretti": -30
+    },
+    {
+        "milei": 87,
+        "bregman": -75,
+        "bullrich": 22,
+        "massa": -17,
+        "schiaretti": 10
+    },
+    {
+        "milei": 40,
+        "bregman": -75,
+        "bullrich": 44,
+        "massa": -50,
+        "schiaretti": 25
+    },
+    {
+        "milei": 81,
+        "bregman": -62,
+        "bullrich": 4,
+        "massa": -19,
+        "schiaretti": -1
+    },
+    {
+        "milei": 40,
+        "bregman": -36,
+        "bullrich": 49,
+        "massa": 2,
+        "schiaretti": -11
+    },
+    {
+        "milei": 81,
+        "bregman": -26,
+        "bullrich": 22,
+        "massa": -9,
+        "schiaretti": -4
+    },
+    {
+        "milei": 66,
+        "bregman": -6,
+        "bullrich": 32,
+        "massa": -18,
+        "schiaretti": 18
+    },
+    {
+        "milei": 95,
+        "bregman": -32,
+        "bullrich": 31,
+        "massa": 7,
+        "schiaretti": -6
+    },
+    {
+        "milei": 49,
+        "bregman": -82,
+        "bullrich": 41,
+        "massa": -49,
+        "schiaretti": -2
+    },
+    {
+        "milei": 64,
+        "bregman": -58,
+        "bullrich": 7,
+        "massa": -49,
+        "schiaretti": 13
+    },
+    {
+        "milei": 12,
+        "bregman": -81,
+        "bullrich": 21,
+        "massa": -20,
+        "schiaretti": -20
+    },
+    {
+        "milei": 24,
+        "bregman": -83,
+        "bullrich": 35,
+        "massa": -31,
+        "schiaretti": -25
+    },
+    {
+        "milei": 23,
+        "bregman": -62,
+        "bullrich": 6,
+        "massa": -38,
+        "schiaretti": 26
+    },
+    {
+        "milei": 78,
+        "bregman": -38,
+        "bullrich": 46,
+        "massa": 8,
+        "schiaretti": 29
+    },
+    {
+        "milei": 34,
+        "bregman": -48,
+        "bullrich": 17,
+        "massa": 10,
+        "schiaretti": 30
+    },
+    {
+        "milei": 78,
+        "bregman": -93,
+        "bullrich": 14,
+        "massa": -48,
+        "schiaretti": -17
+    },
+    {
+        "milei": 66,
+        "bregman": -41,
+        "bullrich": 42,
+        "massa": 5,
+        "schiaretti": -7
+    },
+    {
+        "milei": 28,
+        "bregman": -41,
+        "bullrich": 36,
+        "massa": -5,
+        "schiaretti": -7
+    },
+    {
+        "milei": 0,
+        "bregman": -96,
+        "bullrich": 35,
+        "massa": -1,
+        "schiaretti": 6
+    },
+    {
+        "milei": 6,
+        "bregman": -11,
+        "bullrich": 43,
+        "massa": -19,
+        "schiaretti": -8
+    },
+    {
+        "milei": 89,
+        "bregman": -24,
+        "bullrich": -4,
+        "massa": -16,
+        "schiaretti": -4
+    },
+    {
+        "milei": 55,
+        "bregman": -70,
+        "bullrich": 49,
+        "massa": -20,
+        "schiaretti": -7
+    },
+    {
+        "milei": 60,
+        "bregman": -40,
+        "bullrich": 15,
+        "massa": -11,
+        "schiaretti": 8
+    },
+    {
+        "milei": 57,
+        "bregman": -8,
+        "bullrich": 13,
+        "massa": -30,
+        "schiaretti": 19
+    },
+    {
+        "milei": 70,
+        "bregman": -24,
+        "bullrich": -9,
+        "massa": -28,
+        "schiaretti": -26
+    },
+    {
+        "milei": 77,
+        "bregman": -32,
+        "bullrich": 4,
+        "massa": -12,
+        "schiaretti": 21
+    },
+    {
+        "milei": 15,
+        "bregman": -7,
+        "bullrich": 45,
+        "massa": -28,
+        "schiaretti": -7
+    },
+    {
+        "milei": 14,
+        "bregman": -83,
+        "bullrich": -5,
+        "massa": -23,
+        "schiaretti": -24
+    },
+    {
+        "milei": 51,
+        "bregman": -100,
+        "bullrich": 44,
+        "massa": -50,
+        "schiaretti": -1
+    },
+    {
+        "milei": 47,
+        "bregman": -95,
+        "bullrich": 18,
+        "massa": -33,
+        "schiaretti": 30
+    },
+    {
+        "milei": 21,
+        "bregman": -27,
+        "bullrich": -2,
+        "massa": -10,
+        "schiaretti": -27
+    },
+    {
+        "milei": 73,
+        "bregman": -58,
+        "bullrich": 7,
+        "massa": -25,
+        "schiaretti": -5
+    },
+    {
+        "milei": 97,
+        "bregman": -23,
+        "bullrich": 42,
+        "massa": -13,
+        "schiaretti": -12
+    },
+    {
+        "milei": 96,
+        "bregman": -78,
+        "bullrich": 17,
+        "massa": -16,
+        "schiaretti": -6
+    },
+    {
+        "milei": 76,
+        "bregman": -27,
+        "bullrich": 27,
+        "massa": 9,
+        "schiaretti": 3
+    },
+    {
+        "milei": 70,
+        "bregman": -29,
+        "bullrich": 46,
+        "massa": -11,
+        "schiaretti": -18
+    },
+    {
+        "milei": 27,
+        "bregman": -98,
+        "bullrich": 2,
+        "massa": -42,
+        "schiaretti": -30
+    },
+    {
+        "milei": 95,
+        "bregman": -87,
+        "bullrich": 34,
+        "massa": -9,
+        "schiaretti": -9
+    },
+    {
+        "milei": 35,
+        "bregman": -72,
+        "bullrich": -10,
+        "massa": -37,
+        "schiaretti": -20
+    },
+    {
+        "milei": 7,
+        "bregman": -37,
+        "bullrich": 2,
+        "massa": -6,
+        "schiaretti": 19
+    },
+    {
+        "milei": 39,
+        "bregman": -10,
+        "bullrich": 44,
+        "massa": -9,
+        "schiaretti": 4
+    },
+    {
+        "milei": 84,
+        "bregman": -35,
+        "bullrich": 36,
+        "massa": -35,
+        "schiaretti": 26
+    },
+    {
+        "milei": 88,
+        "bregman": -48,
+        "bullrich": 5,
+        "massa": 7,
+        "schiaretti": 9
+    },
+    {
+        "milei": 2,
+        "bregman": -51,
+        "bullrich": 38,
+        "massa": 2,
+        "schiaretti": -20
+    },
+    {
+        "milei": 57,
+        "bregman": -14,
+        "bullrich": 29,
+        "massa": -13,
+        "schiaretti": -13
+    },
+    {
+        "milei": 86,
+        "bregman": -4,
+        "bullrich": 15,
+        "massa": -32,
+        "schiaretti": -24
+    },
+    {
+        "milei": 59,
+        "bregman": -85,
+        "bullrich": -8,
+        "massa": -23,
+        "schiaretti": -21
+    },
+    {
+        "milei": 71,
+        "bregman": -86,
+        "bullrich": 14,
+        "massa": -8,
+        "schiaretti": -19
+    },
+    {
+        "milei": 10,
+        "bregman": -39,
+        "bullrich": 39,
+        "massa": -34,
+        "schiaretti": -28
+    },
+    {
+        "milei": 95,
+        "bregman": -98,
+        "bullrich": 31,
+        "massa": 9,
+        "schiaretti": -9
+    },
+    {
+        "milei": 85,
+        "bregman": -95,
+        "bullrich": 22,
+        "massa": -31,
+        "schiaretti": -21
+    },
+    {
+        "milei": 22,
+        "bregman": -80,
+        "bullrich": 40,
+        "massa": -6,
+        "schiaretti": 0
+    },
+    {
+        "milei": 77,
+        "bregman": -54,
+        "bullrich": -3,
+        "massa": 6,
+        "schiaretti": -6
+    },
+    {
+        "milei": 97,
+        "bregman": -22,
+        "bullrich": 37,
+        "massa": -27,
+        "schiaretti": 0
+    },
+    {
+        "milei": 34,
+        "bregman": -75,
+        "bullrich": 12,
+        "massa": -46,
+        "schiaretti": 14
+    },
+    {
+        "milei": 1,
+        "bregman": -75,
+        "bullrich": 39,
+        "massa": -14,
+        "schiaretti": 22
+    },
+    {
+        "milei": 33,
+        "bregman": -30,
+        "bullrich": 41,
+        "massa": -2,
+        "schiaretti": 1
+    },
+    {
+        "milei": 27,
+        "bregman": -28,
+        "bullrich": 43,
+        "massa": -19,
+        "schiaretti": 14
+    },
+    {
+        "milei": 94,
+        "bregman": -42,
+        "bullrich": 30,
+        "massa": 3,
+        "schiaretti": -3
+    },
+    {
+        "milei": 31,
+        "bregman": -6,
+        "bullrich": 11,
+        "massa": -32,
+        "schiaretti": 6
+    },
+    {
+        "milei": 33,
+        "bregman": -91,
+        "bullrich": 26,
+        "massa": -6,
+        "schiaretti": 9
+    },
+    {
+        "milei": 9,
+        "bregman": -87,
+        "bullrich": 32,
+        "massa": -48,
+        "schiaretti": -5
+    },
+    {
+        "milei": 93,
+        "bregman": -17,
+        "bullrich": 23,
+        "massa": -10,
+        "schiaretti": -20
+    },
+    {
+        "milei": 33,
+        "bregman": -33,
+        "bullrich": 38,
+        "massa": -16,
+        "schiaretti": -14
+    },
+    {
+        "milei": 50,
+        "bregman": -17,
+        "bullrich": 29,
+        "massa": -21,
+        "schiaretti": 27
+    },
+    {
+        "milei": 98,
+        "bregman": -6,
+        "bullrich": 17,
+        "massa": -4,
+        "schiaretti": -2
+    },
+    {
+        "milei": 60,
+        "bregman": -38,
+        "bullrich": -8,
+        "massa": -13,
+        "schiaretti": 12
+    },
+    {
+        "milei": 97,
+        "bregman": -93,
+        "bullrich": 7,
+        "massa": -6,
+        "schiaretti": 29
+    },
+    {
+        "milei": 41,
+        "bregman": -20,
+        "bullrich": 18,
+        "massa": -34,
+        "schiaretti": -21
+    },
+    {
+        "milei": 59,
+        "bregman": -28,
+        "bullrich": 47,
+        "massa": -16,
+        "schiaretti": 0
+    },
+    {
+        "milei": 91,
+        "bregman": -42,
+        "bullrich": 12,
+        "massa": 2,
+        "schiaretti": 14
+    },
+    {
+        "milei": 21,
+        "bregman": -88,
+        "bullrich": 15,
+        "massa": -35,
+        "schiaretti": 19
+    },
+    {
+        "milei": 89,
+        "bregman": -90,
+        "bullrich": 27,
+        "massa": -12,
+        "schiaretti": -6
+    },
+    {
+        "milei": 81,
+        "bregman": -59,
+        "bullrich": 16,
+        "massa": 10,
+        "schiaretti": -6
+    },
+    {
+        "milei": 86,
+        "bregman": -14,
+        "bullrich": -8,
+        "massa": -47,
+        "schiaretti": 16
+    },
+    {
+        "milei": 42,
+        "bregman": -73,
+        "bullrich": 29,
+        "massa": -25,
+        "schiaretti": 14
+    },
+    {
+        "milei": 97,
+        "bregman": -66,
+        "bullrich": 26,
+        "massa": -5,
+        "schiaretti": 13
+    },
+    {
+        "milei": 99,
+        "bregman": -6,
+        "bullrich": -1,
+        "massa": -7,
+        "schiaretti": 7
+    },
+    {
+        "milei": 57,
+        "bregman": -47,
+        "bullrich": -10,
+        "massa": -22,
+        "schiaretti": -28
+    },
+    {
+        "milei": 7,
+        "bregman": -87,
+        "bullrich": 47,
+        "massa": -31,
+        "schiaretti": 27
+    },
+    {
+        "milei": 58,
+        "bregman": 0,
+        "bullrich": 38,
+        "massa": -23,
+        "schiaretti": 17
+    },
+    {
+        "milei": 91,
+        "bregman": -63,
+        "bullrich": 30,
+        "massa": 1,
+        "schiaretti": 17
+    },
+    {
+        "milei": 28,
+        "bregman": -15,
+        "bullrich": 21,
+        "massa": -48,
+        "schiaretti": 20
+    },
+    {
+        "milei": 52,
+        "bregman": -66,
+        "bullrich": 39,
+        "massa": -32,
+        "schiaretti": -6
+    },
+    {
+        "milei": 44,
+        "bregman": -65,
+        "bullrich": 33,
+        "massa": 3,
+        "schiaretti": 27
+    },
+    {
+        "milei": 58,
+        "bregman": -45,
+        "bullrich": 6,
+        "massa": -38,
+        "schiaretti": -15
+    },
+    {
+        "milei": 40,
+        "bregman": -39,
+        "bullrich": 50,
+        "massa": -21,
+        "schiaretti": 10
+    },
+    {
+        "milei": 2,
+        "bregman": -46,
+        "bullrich": 15,
+        "massa": -29,
+        "schiaretti": -7
+    },
+    {
+        "milei": 1,
+        "bregman": -90,
+        "bullrich": 9,
+        "massa": -11,
+        "schiaretti": 18
+    },
+    {
+        "milei": 65,
+        "bregman": -64,
+        "bullrich": 18,
+        "massa": -1,
+        "schiaretti": 17
+    },
+    {
+        "milei": 25,
+        "bregman": -41,
+        "bullrich": 3,
+        "massa": -20,
+        "schiaretti": 13
+    },
+    {
+        "milei": 5,
+        "bregman": -80,
+        "bullrich": 44,
+        "massa": -10,
+        "schiaretti": -2
+    },
+    {
+        "milei": 72,
+        "bregman": -74,
+        "bullrich": -8,
+        "massa": -39,
+        "schiaretti": 13
+    },
+    {
+        "milei": 89,
+        "bregman": -90,
+        "bullrich": -2,
+        "massa": 4,
+        "schiaretti": 11
+    },
+    {
+        "milei": 41,
+        "bregman": -43,
+        "bullrich": 46,
+        "massa": 4,
+        "schiaretti": 0
+    },
+    {
+        "milei": 95,
+        "bregman": -76,
+        "bullrich": 15,
+        "massa": -37,
+        "schiaretti": 25
+    },
+    {
+        "milei": 65,
+        "bregman": -80,
+        "bullrich": 26,
+        "massa": 6,
+        "schiaretti": 9
+    },
+    {
+        "milei": 5,
+        "bregman": -51,
+        "bullrich": 24,
+        "massa": 6,
+        "schiaretti": -13
+    },
+    {
+        "milei": 17,
+        "bregman": -87,
+        "bullrich": 35,
+        "massa": -8,
+        "schiaretti": 29
+    },
+    {
+        "milei": 20,
+        "bregman": -55,
+        "bullrich": 10,
+        "massa": -32,
+        "schiaretti": -2
+    },
+    {
+        "milei": 39,
+        "bregman": -83,
+        "bullrich": 39,
+        "massa": 4,
+        "schiaretti": 29
+    },
+    {
+        "milei": 37,
+        "bregman": -67,
+        "bullrich": -2,
+        "massa": -16,
+        "schiaretti": 28
+    },
+    {
+        "milei": 68,
+        "bregman": -68,
+        "bullrich": 28,
+        "massa": -23,
+        "schiaretti": 19
+    },
+    {
+        "milei": 89,
+        "bregman": -17,
+        "bullrich": 41,
+        "massa": -46,
+        "schiaretti": 4
+    },
+    {
+        "milei": 32,
+        "bregman": -71,
+        "bullrich": 25,
+        "massa": -15,
+        "schiaretti": 10
+    },
+    {
+        "milei": 44,
+        "bregman": -25,
+        "bullrich": 37,
+        "massa": 0,
+        "schiaretti": 15
+    },
+    {
+        "milei": 67,
+        "bregman": -40,
+        "bullrich": 37,
+        "massa": -35,
+        "schiaretti": 22
+    },
+    {
+        "milei": 85,
+        "bregman": -33,
+        "bullrich": 29,
+        "massa": -22,
+        "schiaretti": 2
+    },
+    {
+        "milei": 18,
+        "bregman": -96,
+        "bullrich": 46,
+        "massa": -20,
+        "schiaretti": -22
+    },
+    {
+        "milei": 55,
+        "bregman": -59,
+        "bullrich": 31,
+        "massa": -38,
+        "schiaretti": 29
+    },
+    {
+        "milei": 21,
+        "bregman": -69,
+        "bullrich": 19,
+        "massa": -20,
+        "schiaretti": -1
+    },
+    {
+        "milei": 17,
+        "bregman": -35,
+        "bullrich": -2,
+        "massa": 4,
+        "schiaretti": 19
+    },
+    {
+        "milei": 100,
+        "bregman": -57,
+        "bullrich": 44,
+        "massa": -49,
+        "schiaretti": -21
+    },
+    {
+        "milei": 11,
+        "bregman": -15,
+        "bullrich": 3,
+        "massa": -33,
+        "schiaretti": 4
+    },
+    {
+        "milei": 22,
+        "bregman": -47,
+        "bullrich": 28,
+        "massa": -1,
+        "schiaretti": -15
+    },
+    {
+        "milei": 57,
+        "bregman": -40,
+        "bullrich": 14,
+        "massa": -7,
+        "schiaretti": 12
+    },
+    {
+        "milei": 78,
+        "bregman": -8,
+        "bullrich": 8,
+        "massa": -39,
+        "schiaretti": -1
+    },
+    {
+        "milei": 75,
+        "bregman": -20,
+        "bullrich": 26,
+        "massa": -45,
+        "schiaretti": -24
+    },
+    {
+        "milei": 29,
+        "bregman": -54,
+        "bullrich": 37,
+        "massa": -18,
+        "schiaretti": 7
+    },
+    {
+        "milei": 60,
+        "bregman": -62,
+        "bullrich": 31,
+        "massa": -11,
+        "schiaretti": -2
+    },
+    {
+        "milei": 51,
+        "bregman": -68,
+        "bullrich": 0,
+        "massa": -17,
+        "schiaretti": -24
+    },
+    {
+        "milei": 83,
+        "bregman": -89,
+        "bullrich": 0,
+        "massa": -22,
+        "schiaretti": 23
+    },
+    {
+        "milei": 99,
+        "bregman": -92,
+        "bullrich": 23,
+        "massa": -8,
+        "schiaretti": 25
+    },
+    {
+        "milei": 29,
+        "bregman": -86,
+        "bullrich": 31,
+        "massa": -50,
+        "schiaretti": -15
+    },
+    {
+        "milei": 93,
+        "bregman": -69,
+        "bullrich": 37,
+        "massa": -20,
+        "schiaretti": 1
+    },
+    {
+        "milei": 73,
+        "bregman": -58,
+        "bullrich": 17,
+        "massa": -21,
+        "schiaretti": -25
+    },
+    {
+        "milei": 12,
+        "bregman": -42,
+        "bullrich": 43,
+        "massa": 9,
+        "schiaretti": 10
+    },
+    {
+        "milei": 85,
+        "bregman": -87,
+        "bullrich": -8,
+        "massa": -3,
+        "schiaretti": 22
+    },
+    {
+        "milei": 61,
+        "bregman": -1,
+        "bullrich": 35,
+        "massa": -36,
+        "schiaretti": 7
+    },
+    {
+        "milei": 73,
+        "bregman": -62,
+        "bullrich": 18,
+        "massa": -36,
+        "schiaretti": -25
+    },
+    {
+        "milei": 63,
+        "bregman": -42,
+        "bullrich": 12,
+        "massa": -30,
+        "schiaretti": -25
+    },
+    {
+        "milei": 98,
+        "bregman": -82,
+        "bullrich": 6,
+        "massa": -29,
+        "schiaretti": -13
+    },
+    {
+        "milei": 4,
+        "bregman": -5,
+        "bullrich": 2,
+        "massa": -20,
+        "schiaretti": 14
+    },
+    {
+        "milei": 87,
+        "bregman": -44,
+        "bullrich": -6,
+        "massa": -35,
+        "schiaretti": 15
+    },
+    {
+        "milei": 18,
+        "bregman": -85,
+        "bullrich": 24,
+        "massa": 1,
+        "schiaretti": 22
+    },
+    {
+        "milei": 48,
+        "bregman": -26,
+        "bullrich": 14,
+        "massa": -5,
+        "schiaretti": -14
+    },
+    {
+        "milei": 22,
+        "bregman": -99,
+        "bullrich": 9,
+        "massa": -6,
+        "schiaretti": 9
+    },
+    {
+        "milei": 59,
+        "bregman": -4,
+        "bullrich": 39,
+        "massa": -28,
+        "schiaretti": -19
+    },
+    {
+        "milei": 19,
+        "bregman": -67,
+        "bullrich": -5,
+        "massa": -21,
+        "schiaretti": 13
+    },
+    {
+        "milei": 10,
+        "bregman": -79,
+        "bullrich": 8,
+        "massa": -13,
+        "schiaretti": 7
+    },
+    {
+        "milei": 89,
+        "bregman": -85,
+        "bullrich": 14,
+        "massa": 6,
+        "schiaretti": -12
+    },
+    {
+        "milei": 3,
+        "bregman": -64,
+        "bullrich": 7,
+        "massa": 10,
+        "schiaretti": 11
+    },
+    {
+        "milei": 34,
+        "bregman": -28,
+        "bullrich": 45,
+        "massa": -21,
+        "schiaretti": 26
+    },
+    {
+        "milei": 32,
+        "bregman": -81,
+        "bullrich": 43,
+        "massa": -6,
+        "schiaretti": 24
+    },
+    {
+        "milei": 93,
+        "bregman": -47,
+        "bullrich": 25,
+        "massa": -9,
+        "schiaretti": -18
+    },
+    {
+        "milei": 48,
+        "bregman": -41,
+        "bullrich": -7,
+        "massa": -9,
+        "schiaretti": -24
+    },
+    {
+        "milei": 90,
+        "bregman": -67,
+        "bullrich": -7,
+        "massa": 10,
+        "schiaretti": 14
+    },
+    {
+        "milei": 78,
+        "bregman": -70,
+        "bullrich": 17,
+        "massa": -5,
+        "schiaretti": -3
+    },
+    {
+        "milei": 43,
+        "bregman": -67,
+        "bullrich": -10,
+        "massa": -9,
+        "schiaretti": -8
+    },
+    {
+        "milei": 52,
+        "bregman": -98,
+        "bullrich": -3,
+        "massa": 2,
+        "schiaretti": -24
+    },
+    {
+        "milei": 53,
+        "bregman": -6,
+        "bullrich": 9,
+        "massa": -9,
+        "schiaretti": -19
+    },
+    {
+        "milei": 97,
+        "bregman": -92,
+        "bullrich": 29,
+        "massa": -44,
+        "schiaretti": -25
+    },
+    {
+        "milei": 63,
+        "bregman": -91,
+        "bullrich": 0,
+        "massa": -19,
+        "schiaretti": 27
+    },
+    {
+        "milei": 48,
+        "bregman": -58,
+        "bullrich": 38,
+        "massa": -29,
+        "schiaretti": 4
+    },
+    {
+        "milei": 30,
+        "bregman": -96,
+        "bullrich": 27,
+        "massa": 2,
+        "schiaretti": -12
+    },
+    {
+        "milei": 56,
+        "bregman": -32,
+        "bullrich": 45,
+        "massa": -40,
+        "schiaretti": -19
+    },
+    {
+        "milei": 54,
+        "bregman": -90,
+        "bullrich": 43,
+        "massa": -17,
+        "schiaretti": -1
+    },
+    {
+        "milei": 87,
+        "bregman": -60,
+        "bullrich": 8,
+        "massa": -40,
+        "schiaretti": 24
+    },
+    {
+        "milei": 89,
+        "bregman": -32,
+        "bullrich": 36,
+        "massa": -25,
+        "schiaretti": 22
+    },
+    {
+        "milei": 81,
+        "bregman": -38,
+        "bullrich": 27,
+        "massa": 3,
+        "schiaretti": 9
+    },
+    {
+        "milei": 59,
+        "bregman": -72,
+        "bullrich": -4,
+        "massa": 9,
+        "schiaretti": 28
+    },
+    {
+        "milei": 22,
+        "bregman": -69,
+        "bullrich": 43,
+        "massa": -34,
+        "schiaretti": 13
+    },
+    {
+        "milei": 91,
+        "bregman": -38,
+        "bullrich": 37,
+        "massa": -18,
+        "schiaretti": -30
+    },
+    {
+        "milei": 0,
+        "bregman": -32,
+        "bullrich": -10,
+        "massa": -24,
+        "schiaretti": -28
+    },
+    {
+        "milei": 46,
+        "bregman": -46,
+        "bullrich": 34,
+        "massa": -35,
+        "schiaretti": -3
+    },
+    {
+        "milei": 31,
+        "bregman": -44,
+        "bullrich": 4,
+        "massa": -38,
+        "schiaretti": 16
+    },
+    {
+        "milei": 46,
+        "bregman": -95,
+        "bullrich": 36,
+        "massa": 9,
+        "schiaretti": 6
+    },
+    {
+        "milei": 55,
+        "bregman": -42,
+        "bullrich": 17,
+        "massa": -22,
+        "schiaretti": -9
+    },
+    {
+        "milei": 95,
+        "bregman": -69,
+        "bullrich": -7,
+        "massa": -48,
+        "schiaretti": 20
+    },
+    {
+        "milei": 37,
+        "bregman": -18,
+        "bullrich": 9,
+        "massa": -17,
+        "schiaretti": 18
+    },
+    {
+        "milei": 92,
+        "bregman": -8,
+        "bullrich": 31,
+        "massa": -1,
+        "schiaretti": 27
+    },
+    {
+        "milei": 76,
+        "bregman": -10,
+        "bullrich": 12,
+        "massa": -38,
+        "schiaretti": -3
+    },
+    {
+        "milei": 15,
+        "bregman": -49,
+        "bullrich": 21,
+        "massa": -16,
+        "schiaretti": -20
+    },
+    {
+        "milei": 24,
+        "bregman": -99,
+        "bullrich": 5,
+        "massa": 9,
+        "schiaretti": 25
+    },
+    {
+        "milei": 87,
+        "bregman": -69,
+        "bullrich": 7,
+        "massa": -24,
+        "schiaretti": 7
+    },
+    {
+        "milei": 58,
+        "bregman": -60,
+        "bullrich": -7,
+        "massa": -43,
+        "schiaretti": 17
+    },
+    {
+        "milei": 13,
+        "bregman": -35,
+        "bullrich": 17,
+        "massa": -41,
+        "schiaretti": -21
+    },
+    {
+        "milei": 81,
+        "bregman": -84,
+        "bullrich": 27,
+        "massa": -9,
+        "schiaretti": -11
+    },
+    {
+        "milei": 82,
+        "bregman": -17,
+        "bullrich": 32,
+        "massa": -35,
+        "schiaretti": 2
+    },
+    {
+        "milei": 45,
+        "bregman": -8,
+        "bullrich": 13,
+        "massa": -43,
+        "schiaretti": 28
+    },
+    {
+        "milei": 67,
+        "bregman": -37,
+        "bullrich": 5,
+        "massa": -19,
+        "schiaretti": -1
+    },
+    {
+        "milei": 77,
+        "bregman": -67,
+        "bullrich": 36,
+        "massa": -17,
+        "schiaretti": -29
+    },
+    {
+        "milei": 66,
+        "bregman": -29,
+        "bullrich": 34,
+        "massa": -47,
+        "schiaretti": -6
+    },
+    {
+        "milei": 69,
+        "bregman": -20,
+        "bullrich": -4,
+        "massa": -5,
+        "schiaretti": -25
+    },
+    {
+        "milei": 70,
+        "bregman": -94,
+        "bullrich": -8,
+        "massa": -18,
+        "schiaretti": 0
+    },
+    {
+        "milei": 32,
+        "bregman": -42,
+        "bullrich": -2,
+        "massa": -18,
+        "schiaretti": 28
+    },
+    {
+        "milei": 5,
+        "bregman": -71,
+        "bullrich": 14,
+        "massa": -3,
+        "schiaretti": -6
+    },
+    {
+        "milei": 44,
+        "bregman": -46,
+        "bullrich": 20,
+        "massa": -12,
+        "schiaretti": 13
+    },
+    {
+        "milei": 25,
+        "bregman": -62,
+        "bullrich": 41,
+        "massa": -23,
+        "schiaretti": 17
+    },
+    {
+        "milei": 50,
+        "bregman": -6,
+        "bullrich": -8,
+        "massa": -29,
+        "schiaretti": 15
+    },
+    {
+        "milei": 25,
+        "bregman": -32,
+        "bullrich": 37,
+        "massa": -8,
+        "schiaretti": 0
+    },
+    {
+        "milei": 1,
+        "bregman": -34,
+        "bullrich": -9,
+        "massa": -20,
+        "schiaretti": 19
+    },
+    {
+        "milei": 34,
+        "bregman": -23,
+        "bullrich": 31,
+        "massa": -2,
+        "schiaretti": -5
+    },
+    {
+        "milei": 8,
+        "bregman": -72,
+        "bullrich": 26,
+        "massa": -5,
+        "schiaretti": 30
+    },
+    {
+        "milei": 77,
+        "bregman": -13,
+        "bullrich": 10,
+        "massa": 3,
+        "schiaretti": 4
+    },
+    {
+        "milei": 99,
+        "bregman": -34,
+        "bullrich": 0,
+        "massa": -12,
+        "schiaretti": -11
+    },
+    {
+        "milei": 17,
+        "bregman": -24,
+        "bullrich": 0,
+        "massa": -15,
+        "schiaretti": 23
+    },
+    {
+        "milei": 28,
+        "bregman": -42,
+        "bullrich": 46,
+        "massa": 6,
+        "schiaretti": -12
+    },
+    {
+        "milei": 13,
+        "bregman": -10,
+        "bullrich": -7,
+        "massa": 4,
+        "schiaretti": -8
+    },
+    {
+        "milei": 13,
+        "bregman": -24,
+        "bullrich": 22,
+        "massa": 6,
+        "schiaretti": 8
+    },
+    {
+        "milei": 52,
+        "bregman": -59,
+        "bullrich": 37,
+        "massa": -36,
+        "schiaretti": -19
+    },
+    {
+        "milei": 97,
+        "bregman": -58,
+        "bullrich": -8,
+        "massa": 3,
+        "schiaretti": 10
+    },
+    {
+        "milei": 43,
+        "bregman": -1,
+        "bullrich": 1,
+        "massa": -21,
+        "schiaretti": -11
+    },
+    {
+        "milei": 28,
+        "bregman": -55,
+        "bullrich": -8,
+        "massa": -2,
+        "schiaretti": -9
+    },
+    {
+        "milei": 92,
+        "bregman": -49,
+        "bullrich": 36,
+        "massa": -7,
+        "schiaretti": -2
+    },
+    {
+        "milei": 59,
+        "bregman": -72,
+        "bullrich": 3,
+        "massa": -32,
+        "schiaretti": 7
+    },
+    {
+        "milei": 44,
+        "bregman": -29,
+        "bullrich": 33,
+        "massa": 6,
+        "schiaretti": -20
+    },
+    {
+        "milei": 45,
+        "bregman": -82,
+        "bullrich": 40,
+        "massa": 9,
+        "schiaretti": -1
+    },
+    {
+        "milei": 69,
+        "bregman": -69,
+        "bullrich": 35,
+        "massa": -35,
+        "schiaretti": -16
+    },
+    {
+        "milei": 39,
+        "bregman": -64,
+        "bullrich": -1,
+        "massa": -18,
+        "schiaretti": 16
+    },
+    {
+        "milei": 80,
+        "bregman": -67,
+        "bullrich": 0,
+        "massa": -38,
+        "schiaretti": -20
+    },
+    {
+        "milei": 4,
+        "bregman": -27,
+        "bullrich": 50,
+        "massa": 0,
+        "schiaretti": 15
+    },
+    {
+        "milei": 35,
+        "bregman": -51,
+        "bullrich": 17,
+        "massa": -7,
+        "schiaretti": 4
+    },
+    {
+        "milei": 51,
+        "bregman": -35,
+        "bullrich": 20,
+        "massa": -37,
+        "schiaretti": -9
+    },
+    {
+        "milei": 1,
+        "bregman": -3,
+        "bullrich": 6,
+        "massa": -5,
+        "schiaretti": 25
+    },
+    {
+        "milei": 23,
+        "bregman": -43,
+        "bullrich": 8,
+        "massa": -48,
+        "schiaretti": 13
+    },
+    {
+        "milei": 82,
+        "bregman": -57,
+        "bullrich": -9,
+        "massa": -4,
+        "schiaretti": 7
+    },
+    {
+        "milei": 58,
+        "bregman": -43,
+        "bullrich": -8,
+        "massa": 7,
+        "schiaretti": -24
+    },
+    {
+        "milei": 67,
+        "bregman": -24,
+        "bullrich": 34,
+        "massa": -4,
+        "schiaretti": 17
+    },
+    {
+        "milei": 87,
+        "bregman": -2,
+        "bullrich": -9,
+        "massa": -8,
+        "schiaretti": -30
+    },
+    {
+        "milei": 25,
+        "bregman": -91,
+        "bullrich": 33,
+        "massa": -25,
+        "schiaretti": -4
+    },
+    {
+        "milei": 88,
+        "bregman": -20,
+        "bullrich": 33,
+        "massa": -3,
+        "schiaretti": -29
+    },
+    {
+        "milei": 38,
+        "bregman": -75,
+        "bullrich": 33,
+        "massa": -46,
+        "schiaretti": 21
+    },
+    {
+        "milei": 69,
+        "bregman": -74,
+        "bullrich": 43,
+        "massa": -36,
+        "schiaretti": -1
+    },
+    {
+        "milei": 91,
+        "bregman": -26,
+        "bullrich": 12,
+        "massa": -29,
+        "schiaretti": -20
+    },
+    {
+        "milei": 74,
+        "bregman": -61,
+        "bullrich": 21,
+        "massa": -2,
+        "schiaretti": 13
+    },
+    {
+        "milei": 32,
+        "bregman": -86,
+        "bullrich": 19,
+        "massa": -2,
+        "schiaretti": -30
+    },
+    {
+        "milei": 79,
+        "bregman": -33,
+        "bullrich": 14,
+        "massa": -19,
+        "schiaretti": -3
+    },
+    {
+        "milei": 20,
+        "bregman": -33,
+        "bullrich": 45,
+        "massa": -42,
+        "schiaretti": 27
+    },
+    {
+        "milei": 39,
+        "bregman": -59,
+        "bullrich": 33,
+        "massa": -10,
+        "schiaretti": 23
+    },
+    {
+        "milei": 55,
+        "bregman": -77,
+        "bullrich": -5,
+        "massa": -5,
+        "schiaretti": -21
+    },
+    {
+        "milei": 64,
+        "bregman": -47,
+        "bullrich": 38,
+        "massa": -47,
+        "schiaretti": -27
+    },
+    {
+        "milei": 43,
+        "bregman": -56,
+        "bullrich": 1,
+        "massa": -22,
+        "schiaretti": 20
+    },
+    {
+        "milei": 0,
+        "bregman": -74,
+        "bullrich": -2,
+        "massa": -13,
+        "schiaretti": 28
+    },
+    {
+        "milei": 47,
+        "bregman": -18,
+        "bullrich": 23,
+        "massa": -26,
+        "schiaretti": -11
+    },
+    {
+        "milei": 71,
+        "bregman": -29,
+        "bullrich": 3,
+        "massa": 1,
+        "schiaretti": 13
+    },
+    {
+        "milei": 40,
+        "bregman": 0,
+        "bullrich": 50,
+        "massa": -31,
+        "schiaretti": -4
+    },
+    {
+        "milei": 24,
+        "bregman": -77,
+        "bullrich": 34,
+        "massa": -6,
+        "schiaretti": -20
+    },
+    {
+        "milei": 27,
+        "bregman": -61,
+        "bullrich": 37,
+        "massa": -33,
+        "schiaretti": -13
+    },
+    {
+        "milei": 47,
+        "bregman": -68,
+        "bullrich": 9,
+        "massa": -5,
+        "schiaretti": 2
+    },
+    {
+        "milei": 100,
+        "bregman": -59,
+        "bullrich": 32,
+        "massa": -24,
+        "schiaretti": 17
+    },
+    {
+        "milei": 93,
+        "bregman": -34,
+        "bullrich": 41,
+        "massa": -28,
+        "schiaretti": 13
+    },
+    {
+        "milei": 22,
+        "bregman": -84,
+        "bullrich": 50,
+        "massa": -1,
+        "schiaretti": 25
+    },
+    {
+        "milei": 64,
+        "bregman": -23,
+        "bullrich": -8,
+        "massa": -39,
+        "schiaretti": 25
+    },
+    {
+        "milei": 67,
+        "bregman": -41,
+        "bullrich": 36,
+        "massa": -50,
+        "schiaretti": 13
+    },
+    {
+        "milei": 87,
+        "bregman": -31,
+        "bullrich": 38,
+        "massa": -29,
+        "schiaretti": 13
+    },
+    {
+        "milei": 82,
+        "bregman": -79,
+        "bullrich": 8,
+        "massa": -45,
+        "schiaretti": -24
+    },
+    {
+        "milei": 4,
+        "bregman": -37,
+        "bullrich": -7,
+        "massa": 4,
+        "schiaretti": 4
+    },
+    {
+        "milei": 98,
+        "bregman": -11,
+        "bullrich": 27,
+        "massa": 0,
+        "schiaretti": -10
+    },
+    {
+        "milei": 47,
+        "bregman": -44,
+        "bullrich": 32,
+        "massa": 3,
+        "schiaretti": 28
+    },
+    {
+        "milei": 92,
+        "bregman": -84,
+        "bullrich": -9,
+        "massa": 3,
+        "schiaretti": -27
+    },
+    {
+        "milei": 98,
+        "bregman": -42,
+        "bullrich": 45,
+        "massa": 8,
+        "schiaretti": -22
+    },
+    {
+        "milei": 77,
+        "bregman": -6,
+        "bullrich": 0,
+        "massa": -29,
+        "schiaretti": 1
+    },
+    {
+        "milei": 86,
+        "bregman": -33,
+        "bullrich": 35,
+        "massa": 2,
+        "schiaretti": -2
+    },
+    {
+        "milei": 30,
+        "bregman": -49,
+        "bullrich": 29,
+        "massa": -32,
+        "schiaretti": -14
+    },
+    {
+        "milei": 93,
+        "bregman": -46,
+        "bullrich": 8,
+        "massa": -24,
+        "schiaretti": -24
+    },
+    {
+        "milei": 44,
+        "bregman": -73,
+        "bullrich": 2,
+        "massa": -35,
+        "schiaretti": 15
+    },
+    {
+        "milei": 66,
+        "bregman": -6,
+        "bullrich": 39,
+        "massa": -2,
+        "schiaretti": -9
+    },
+    {
+        "milei": 88,
+        "bregman": -52,
+        "bullrich": 31,
+        "massa": -11,
+        "schiaretti": 10
+    },
+    {
+        "milei": 55,
+        "bregman": -80,
+        "bullrich": 20,
+        "massa": -38,
+        "schiaretti": 13
+    },
+    {
+        "milei": 54,
+        "bregman": -38,
+        "bullrich": 20,
+        "massa": 5,
+        "schiaretti": 3
+    },
+    {
+        "milei": 77,
+        "bregman": -19,
+        "bullrich": -10,
+        "massa": -1,
+        "schiaretti": 10
+    },
+    {
+        "milei": 80,
+        "bregman": -97,
+        "bullrich": 24,
+        "massa": -7,
+        "schiaretti": -29
+    },
+    {
+        "milei": 18,
+        "bregman": -73,
+        "bullrich": 46,
+        "massa": -12,
+        "schiaretti": -24
+    },
+    {
+        "milei": 51,
+        "bregman": -55,
+        "bullrich": 38,
+        "massa": -15,
+        "schiaretti": 5
+    },
+    {
+        "milei": 1,
+        "bregman": -4,
+        "bullrich": 24,
+        "massa": -24,
+        "schiaretti": 5
+    },
+    {
+        "milei": 81,
+        "bregman": -18,
+        "bullrich": -6,
+        "massa": -20,
+        "schiaretti": -17
+    },
+    {
+        "milei": 65,
+        "bregman": -31,
+        "bullrich": 34,
+        "massa": -27,
+        "schiaretti": 12
+    },
+    {
+        "milei": 8,
+        "bregman": -52,
+        "bullrich": 8,
+        "massa": -4,
+        "schiaretti": -20
+    },
+    {
+        "milei": 24,
+        "bregman": -81,
+        "bullrich": 19,
+        "massa": -6,
+        "schiaretti": 6
+    },
+    {
+        "milei": 47,
+        "bregman": -57,
+        "bullrich": -9,
+        "massa": -42,
+        "schiaretti": -1
+    },
+    {
+        "milei": 28,
+        "bregman": 0,
+        "bullrich": 40,
+        "massa": -12,
+        "schiaretti": 28
+    },
+    {
+        "milei": 87,
+        "bregman": -25,
+        "bullrich": 2,
+        "massa": -38,
+        "schiaretti": 19
+    },
+    {
+        "milei": 60,
+        "bregman": -89,
+        "bullrich": 8,
+        "massa": -40,
+        "schiaretti": 16
+    },
+    {
+        "milei": 19,
+        "bregman": -84,
+        "bullrich": 6,
+        "massa": -45,
+        "schiaretti": -17
+    },
+    {
+        "milei": 95,
+        "bregman": -75,
+        "bullrich": 38,
+        "massa": -10,
+        "schiaretti": -28
+    },
+    {
+        "milei": 91,
+        "bregman": -18,
+        "bullrich": -7,
+        "massa": -40,
+        "schiaretti": 4
+    },
+    {
+        "milei": 87,
+        "bregman": -87,
+        "bullrich": 33,
+        "massa": -6,
+        "schiaretti": 17
+    },
+    {
+        "milei": 87,
+        "bregman": -39,
+        "bullrich": 13,
+        "massa": -12,
+        "schiaretti": 18
+    },
+    {
+        "milei": 41,
+        "bregman": -96,
+        "bullrich": 5,
+        "massa": -5,
+        "schiaretti": 29
+    },
+    {
+        "milei": 99,
+        "bregman": -91,
+        "bullrich": 19,
+        "massa": -14,
+        "schiaretti": -29
+    },
+    {
+        "milei": 82,
+        "bregman": -39,
+        "bullrich": 4,
+        "massa": -41,
+        "schiaretti": 15
+    },
+    {
+        "milei": 84,
+        "bregman": -26,
+        "bullrich": 44,
+        "massa": -12,
+        "schiaretti": -21
+    },
+    {
+        "milei": 72,
+        "bregman": -46,
+        "bullrich": 16,
+        "massa": -17,
+        "schiaretti": -1
+    },
+    {
+        "milei": 34,
+        "bregman": -15,
+        "bullrich": 13,
+        "massa": 5,
+        "schiaretti": -1
+    },
+    {
+        "milei": 63,
+        "bregman": -52,
+        "bullrich": 23,
+        "massa": -13,
+        "schiaretti": -2
+    },
+    {
+        "milei": 31,
+        "bregman": -81,
+        "bullrich": -2,
+        "massa": -5,
+        "schiaretti": -7
+    },
+    {
+        "milei": 41,
+        "bregman": -88,
+        "bullrich": 37,
+        "massa": -14,
+        "schiaretti": -26
+    },
+    {
+        "milei": 28,
+        "bregman": -44,
+        "bullrich": 38,
+        "massa": -31,
+        "schiaretti": -26
+    },
+    {
+        "milei": 97,
+        "bregman": -35,
+        "bullrich": 34,
+        "massa": -29,
+        "schiaretti": 5
+    },
+    {
+        "milei": 22,
+        "bregman": -78,
+        "bullrich": 46,
+        "massa": -25,
+        "schiaretti": -15
+    },
+    {
+        "milei": 95,
+        "bregman": -45,
+        "bullrich": 35,
+        "massa": -40,
+        "schiaretti": -8
+    },
+    {
+        "milei": 81,
+        "bregman": -5,
+        "bullrich": 29,
+        "massa": -26,
+        "schiaretti": -11
+    },
+    {
+        "milei": 83,
+        "bregman": -70,
+        "bullrich": 19,
+        "massa": -26,
+        "schiaretti": -27
+    },
+    {
+        "milei": 65,
+        "bregman": -24,
+        "bullrich": 23,
+        "massa": -49,
+        "schiaretti": 22
+    },
+    {
+        "milei": 45,
+        "bregman": -36,
+        "bullrich": 15,
+        "massa": -7,
+        "schiaretti": 28
+    },
+    {
+        "milei": 53,
+        "bregman": -70,
+        "bullrich": 29,
+        "massa": -24,
+        "schiaretti": 5
+    },
+    {
+        "milei": 41,
+        "bregman": -39,
+        "bullrich": 24,
+        "massa": -19,
+        "schiaretti": -15
+    },
+    {
+        "milei": 86,
+        "bregman": -14,
+        "bullrich": 33,
+        "massa": -38,
+        "schiaretti": 23
+    },
+    {
+        "milei": 40,
+        "bregman": -72,
+        "bullrich": 44,
+        "massa": -14,
+        "schiaretti": -8
+    },
+    {
+        "milei": 97,
+        "bregman": -35,
+        "bullrich": 18,
+        "massa": -15,
+        "schiaretti": -18
+    },
+    {
+        "milei": 58,
+        "bregman": -100,
+        "bullrich": 44,
+        "massa": -3,
+        "schiaretti": 11
+    },
+    {
+        "milei": 89,
+        "bregman": -36,
+        "bullrich": 49,
+        "massa": 1,
+        "schiaretti": -24
+    },
+    {
+        "milei": 15,
+        "bregman": -54,
+        "bullrich": 15,
+        "massa": -48,
+        "schiaretti": 4
+    },
+    {
+        "milei": 56,
+        "bregman": -65,
+        "bullrich": 37,
+        "massa": 4,
+        "schiaretti": 2
+    },
+    {
+        "milei": 87,
+        "bregman": -93,
+        "bullrich": -6,
+        "massa": -9,
+        "schiaretti": -4
+    },
+    {
+        "milei": 81,
+        "bregman": -86,
+        "bullrich": 16,
+        "massa": -25,
+        "schiaretti": 29
+    },
+    {
+        "milei": 52,
+        "bregman": -31,
+        "bullrich": 6,
+        "massa": 10,
+        "schiaretti": 14
+    },
+    {
+        "milei": 98,
+        "bregman": -50,
+        "bullrich": 3,
+        "massa": -35,
+        "schiaretti": -30
+    },
+    {
+        "milei": 25,
+        "bregman": -6,
+        "bullrich": 2,
+        "massa": 6,
+        "schiaretti": -14
+    },
+    {
+        "milei": 58,
+        "bregman": -25,
+        "bullrich": 8,
+        "massa": -44,
+        "schiaretti": -18
+    },
+    {
+        "milei": 62,
+        "bregman": -32,
+        "bullrich": 13,
+        "massa": -50,
+        "schiaretti": 22
+    },
+    {
+        "milei": 82,
+        "bregman": -73,
+        "bullrich": 44,
+        "massa": 4,
+        "schiaretti": 15
+    },
+    {
+        "milei": 100,
+        "bregman": -4,
+        "bullrich": 37,
+        "massa": -50,
+        "schiaretti": -24
+    },
+    {
+        "milei": 29,
+        "bregman": -24,
+        "bullrich": 29,
+        "massa": 9,
+        "schiaretti": 20
+    },
+    {
+        "milei": 94,
+        "bregman": -44,
+        "bullrich": -3,
+        "massa": -10,
+        "schiaretti": 16
+    },
+    {
+        "milei": 78,
+        "bregman": -65,
+        "bullrich": 16,
+        "massa": -3,
+        "schiaretti": 27
+    },
+    {
+        "milei": 81,
+        "bregman": -100,
+        "bullrich": 42,
+        "massa": 5,
+        "schiaretti": 18
+    },
+    {
+        "milei": 94,
+        "bregman": -58,
+        "bullrich": -10,
+        "massa": 5,
+        "schiaretti": 5
+    },
+    {
+        "milei": 85,
+        "bregman": -52,
+        "bullrich": 29,
+        "massa": -4,
+        "schiaretti": -28
+    },
+    {
+        "milei": 28,
+        "bregman": -19,
+        "bullrich": -7,
+        "massa": -5,
+        "schiaretti": -5
+    },
+    {
+        "milei": 68,
+        "bregman": -70,
+        "bullrich": 22,
+        "massa": -41,
+        "schiaretti": -4
+    },
+    {
+        "milei": 47,
+        "bregman": -45,
+        "bullrich": 5,
+        "massa": -23,
+        "schiaretti": -12
+    },
+    {
+        "milei": 4,
+        "bregman": -11,
+        "bullrich": 16,
+        "massa": -4,
+        "schiaretti": -18
+    },
+    {
+        "milei": 93,
+        "bregman": -46,
+        "bullrich": -8,
+        "massa": -33,
+        "schiaretti": -26
+    },
+    {
+        "milei": 44,
+        "bregman": -90,
+        "bullrich": 16,
+        "massa": -6,
+        "schiaretti": 29
+    },
+    {
+        "milei": 33,
+        "bregman": -2,
+        "bullrich": -6,
+        "massa": -44,
+        "schiaretti": -13
+    },
+    {
+        "milei": 71,
+        "bregman": -86,
+        "bullrich": 21,
+        "massa": -14,
+        "schiaretti": -20
+    },
+    {
+        "milei": 20,
+        "bregman": -33,
+        "bullrich": 49,
+        "massa": -47,
+        "schiaretti": 29
+    },
+    {
+        "milei": 51,
+        "bregman": -41,
+        "bullrich": 3,
+        "massa": -21,
+        "schiaretti": 7
+    },
+    {
+        "milei": 49,
+        "bregman": -2,
+        "bullrich": -9,
+        "massa": -5,
+        "schiaretti": -7
+    },
+    {
+        "milei": 44,
+        "bregman": -83,
+        "bullrich": -8,
+        "massa": -45,
+        "schiaretti": 8
+    },
+    {
+        "milei": 5,
+        "bregman": -40,
+        "bullrich": 40,
+        "massa": -25,
+        "schiaretti": -21
+    },
+    {
+        "milei": 50,
+        "bregman": -89,
+        "bullrich": 3,
+        "massa": -4,
+        "schiaretti": 27
+    },
+    {
+        "milei": 21,
+        "bregman": -69,
+        "bullrich": 28,
+        "massa": -37,
+        "schiaretti": 26
+    },
+    {
+        "milei": 58,
+        "bregman": -48,
+        "bullrich": 47,
+        "massa": -20,
+        "schiaretti": -10
+    },
+    {
+        "milei": 58,
+        "bregman": -81,
+        "bullrich": 10,
+        "massa": -15,
+        "schiaretti": 11
+    },
+    {
+        "milei": 26,
+        "bregman": -10,
+        "bullrich": 46,
+        "massa": -1,
+        "schiaretti": 15
+    },
+    {
+        "milei": 77,
+        "bregman": -20,
+        "bullrich": 32,
+        "massa": -1,
+        "schiaretti": -17
+    },
+    {
+        "milei": 38,
+        "bregman": 0,
+        "bullrich": 6,
+        "massa": 2,
+        "schiaretti": -10
+    },
+    {
+        "milei": 63,
+        "bregman": -49,
+        "bullrich": 15,
+        "massa": -50,
+        "schiaretti": 0
+    },
+    {
+        "milei": 6,
+        "bregman": -34,
+        "bullrich": -8,
+        "massa": -35,
+        "schiaretti": 5
+    },
+    {
+        "milei": 39,
+        "bregman": -91,
+        "bullrich": 47,
+        "massa": -23,
+        "schiaretti": -11
+    },
+    {
+        "milei": 21,
+        "bregman": -30,
+        "bullrich": 42,
+        "massa": -34,
+        "schiaretti": -5
+    },
+    {
+        "milei": 18,
+        "bregman": -37,
+        "bullrich": -7,
+        "massa": -7,
+        "schiaretti": 8
+    },
+    {
+        "milei": 40,
+        "bregman": -72,
+        "bullrich": 3,
+        "massa": 3,
+        "schiaretti": 25
+    },
+    {
+        "milei": 14,
+        "bregman": -66,
+        "bullrich": 40,
+        "massa": -7,
+        "schiaretti": 8
+    },
+    {
+        "milei": 68,
+        "bregman": -67,
+        "bullrich": -6,
+        "massa": -14,
+        "schiaretti": -28
+    },
+    {
+        "milei": 98,
+        "bregman": -75,
+        "bullrich": 41,
+        "massa": 1,
+        "schiaretti": -7
+    },
+    {
+        "milei": 2,
+        "bregman": -42,
+        "bullrich": 18,
+        "massa": 8,
+        "schiaretti": 20
+    },
+    {
+        "milei": 1,
+        "bregman": -25,
+        "bullrich": 27,
+        "massa": -39,
+        "schiaretti": -25
+    },
+    {
+        "milei": 12,
+        "bregman": -74,
+        "bullrich": -10,
+        "massa": 5,
+        "schiaretti": -18
+    },
+    {
+        "milei": 13,
+        "bregman": -98,
+        "bullrich": 46,
+        "massa": -11,
+        "schiaretti": 24
+    },
+    {
+        "milei": 45,
+        "bregman": -23,
+        "bullrich": 6,
+        "massa": 0,
+        "schiaretti": -19
+    },
+    {
+        "milei": 49,
+        "bregman": -97,
+        "bullrich": 16,
+        "massa": -37,
+        "schiaretti": 25
+    },
+    {
+        "milei": 98,
+        "bregman": -14,
+        "bullrich": 28,
+        "massa": -11,
+        "schiaretti": 12
+    },
+    {
+        "milei": 88,
+        "bregman": -48,
+        "bullrich": 11,
+        "massa": -36,
+        "schiaretti": -29
+    },
+    {
+        "milei": 32,
+        "bregman": -69,
+        "bullrich": 28,
+        "massa": -2,
+        "schiaretti": -14
+    },
+    {
+        "milei": 24,
+        "bregman": -51,
+        "bullrich": 10,
+        "massa": -2,
+        "schiaretti": 10
+    },
+    {
+        "milei": 0,
+        "bregman": -76,
+        "bullrich": 2,
+        "massa": -37,
+        "schiaretti": 11
+    },
+    {
+        "milei": 40,
+        "bregman": -80,
+        "bullrich": 39,
+        "massa": -31,
+        "schiaretti": -29
+    },
+    {
+        "milei": 23,
+        "bregman": -71,
+        "bullrich": 28,
+        "massa": -26,
+        "schiaretti": -15
+    },
+    {
+        "milei": 13,
+        "bregman": -61,
+        "bullrich": 19,
+        "massa": -35,
+        "schiaretti": -13
+    },
+    {
+        "milei": 69,
+        "bregman": -55,
+        "bullrich": 10,
+        "massa": 1,
+        "schiaretti": -7
+    },
+    {
+        "milei": 11,
+        "bregman": -43,
+        "bullrich": -6,
+        "massa": -28,
+        "schiaretti": -3
+    },
+    {
+        "milei": 35,
+        "bregman": -16,
+        "bullrich": 42,
+        "massa": -44,
+        "schiaretti": 25
+    },
+    {
+        "milei": 51,
+        "bregman": -48,
+        "bullrich": 42,
+        "massa": -27,
+        "schiaretti": -6
+    },
+    {
+        "milei": 83,
+        "bregman": -42,
+        "bullrich": 21,
+        "massa": -13,
+        "schiaretti": -1
+    },
+    {
+        "milei": 80,
+        "bregman": -83,
+        "bullrich": 43,
+        "massa": -7,
+        "schiaretti": -9
+    },
+    {
+        "milei": 2,
+        "bregman": -15,
+        "bullrich": 24,
+        "massa": 7,
+        "schiaretti": 29
+    },
+    {
+        "milei": 37,
+        "bregman": -62,
+        "bullrich": 50,
+        "massa": -21,
+        "schiaretti": 0
+    },
+    {
+        "milei": 47,
+        "bregman": -70,
+        "bullrich": 4,
+        "massa": -1,
+        "schiaretti": 10
+    },
+    {
+        "milei": 66,
+        "bregman": -94,
+        "bullrich": 47,
+        "massa": 3,
+        "schiaretti": 19
+    },
+    {
+        "milei": 17,
+        "bregman": -87,
+        "bullrich": 2,
+        "massa": -46,
+        "schiaretti": 9
+    },
+    {
+        "milei": 43,
+        "bregman": -11,
+        "bullrich": -4,
+        "massa": -38,
+        "schiaretti": 19
+    },
+    {
+        "milei": 56,
+        "bregman": -5,
+        "bullrich": 15,
+        "massa": -42,
+        "schiaretti": 27
+    },
+    {
+        "milei": 30,
+        "bregman": -39,
+        "bullrich": 12,
+        "massa": -41,
+        "schiaretti": -4
+    },
+    {
+        "milei": 8,
+        "bregman": -98,
+        "bullrich": 27,
+        "massa": -22,
+        "schiaretti": 7
+    },
+    {
+        "milei": 40,
+        "bregman": -100,
+        "bullrich": 43,
+        "massa": -9,
+        "schiaretti": -29
+    },
+    {
+        "milei": 28,
+        "bregman": -4,
+        "bullrich": 41,
+        "massa": -48,
+        "schiaretti": -20
+    },
+    {
+        "milei": 98,
+        "bregman": -2,
+        "bullrich": 46,
+        "massa": 0,
+        "schiaretti": -26
+    },
+    {
+        "milei": 3,
+        "bregman": -46,
+        "bullrich": -9,
+        "massa": -29,
+        "schiaretti": -12
+    },
+    {
+        "milei": 91,
+        "bregman": -42,
+        "bullrich": -6,
+        "massa": -44,
+        "schiaretti": -9
+    },
+    {
+        "milei": 52,
+        "bregman": -37,
+        "bullrich": 27,
+        "massa": -13,
+        "schiaretti": -22
+    },
+    {
+        "milei": 13,
+        "bregman": -9,
+        "bullrich": -8,
+        "massa": 8,
+        "schiaretti": -6
+    },
+    {
+        "milei": 38,
+        "bregman": -16,
+        "bullrich": -9,
+        "massa": 4,
+        "schiaretti": -14
+    },
+    {
+        "milei": 25,
+        "bregman": -81,
+        "bullrich": 12,
+        "massa": -31,
+        "schiaretti": 9
+    },
+    {
+        "milei": 54,
+        "bregman": -55,
+        "bullrich": -4,
+        "massa": -7,
+        "schiaretti": 0
+    },
+    {
+        "milei": 33,
+        "bregman": -36,
+        "bullrich": -5,
+        "massa": 9,
+        "schiaretti": -8
+    },
+    {
+        "milei": 6,
+        "bregman": -70,
+        "bullrich": 12,
+        "massa": -26,
+        "schiaretti": 27
+    },
+    {
+        "milei": 20,
+        "bregman": -90,
+        "bullrich": 40,
+        "massa": -47,
+        "schiaretti": -13
+    },
+    {
+        "milei": 45,
+        "bregman": -100,
+        "bullrich": 36,
+        "massa": -50,
+        "schiaretti": 24
+    },
+    {
+        "milei": 80,
+        "bregman": -22,
+        "bullrich": 45,
+        "massa": -18,
+        "schiaretti": 27
+    },
+    {
+        "milei": 100,
+        "bregman": -69,
+        "bullrich": 8,
+        "massa": -13,
+        "schiaretti": 6
+    },
+    {
+        "milei": 10,
+        "bregman": -15,
+        "bullrich": 32,
+        "massa": -39,
+        "schiaretti": -10
+    },
+    {
+        "milei": 61,
+        "bregman": -55,
+        "bullrich": 40,
+        "massa": -41,
+        "schiaretti": -3
+    },
+    {
+        "milei": 21,
+        "bregman": -42,
+        "bullrich": -9,
+        "massa": -5,
+        "schiaretti": 19
+    },
+    {
+        "milei": 48,
+        "bregman": -49,
+        "bullrich": -4,
+        "massa": -46,
+        "schiaretti": 24
+    },
+    {
+        "milei": 52,
+        "bregman": -13,
+        "bullrich": 34,
+        "massa": -2,
+        "schiaretti": 0
+    },
+    {
+        "milei": 23,
+        "bregman": -98,
+        "bullrich": 32,
+        "massa": -3,
+        "schiaretti": -13
+    },
+    {
+        "milei": 18,
+        "bregman": -30,
+        "bullrich": 10,
+        "massa": -48,
+        "schiaretti": 22
+    },
+    {
+        "milei": 29,
+        "bregman": -11,
+        "bullrich": 42,
+        "massa": -32,
+        "schiaretti": 29
+    },
+    {
+        "milei": 86,
+        "bregman": -20,
+        "bullrich": 36,
+        "massa": -48,
+        "schiaretti": 5
+    },
+    {
+        "milei": 2,
+        "bregman": -64,
+        "bullrich": 39,
+        "massa": -23,
+        "schiaretti": 15
+    },
+    {
+        "milei": 42,
+        "bregman": -24,
+        "bullrich": 50,
+        "massa": -49,
+        "schiaretti": 26
+    },
+    {
+        "milei": 48,
+        "bregman": -91,
+        "bullrich": 30,
+        "massa": -9,
+        "schiaretti": 11
+    },
+    {
+        "milei": 51,
+        "bregman": -69,
+        "bullrich": 6,
+        "massa": -9,
+        "schiaretti": -26
+    },
+    {
+        "milei": 81,
+        "bregman": -18,
+        "bullrich": 19,
+        "massa": -5,
+        "schiaretti": 19
+    },
+    {
+        "milei": 45,
+        "bregman": -75,
+        "bullrich": -4,
+        "massa": -41,
+        "schiaretti": 5
+    },
+    {
+        "milei": 81,
+        "bregman": -10,
+        "bullrich": 17,
+        "massa": 10,
+        "schiaretti": 2
+    },
+    {
+        "milei": 9,
+        "bregman": -94,
+        "bullrich": 23,
+        "massa": -39,
+        "schiaretti": 8
+    },
+    {
+        "milei": 12,
+        "bregman": -55,
+        "bullrich": -2,
+        "massa": -6,
+        "schiaretti": -10
+    },
+    {
+        "milei": 61,
+        "bregman": -29,
+        "bullrich": -9,
+        "massa": 8,
+        "schiaretti": 0
+    },
+    {
+        "milei": 6,
+        "bregman": -49,
+        "bullrich": -2,
+        "massa": -13,
+        "schiaretti": -28
+    },
+    {
+        "milei": 20,
+        "bregman": -29,
+        "bullrich": -8,
+        "massa": -37,
+        "schiaretti": -13
+    },
+    {
+        "milei": 97,
+        "bregman": -95,
+        "bullrich": 44,
+        "massa": -26,
+        "schiaretti": -12
+    },
+    {
+        "milei": 8,
+        "bregman": -45,
+        "bullrich": 2,
+        "massa": -24,
+        "schiaretti": -28
+    },
+    {
+        "milei": 15,
+        "bregman": -30,
+        "bullrich": 8,
+        "massa": 5,
+        "schiaretti": 14
+    },
+    {
+        "milei": 8,
+        "bregman": -75,
+        "bullrich": 3,
+        "massa": -18,
+        "schiaretti": -21
+    },
+    {
+        "milei": 38,
+        "bregman": -95,
+        "bullrich": -2,
+        "massa": -50,
+        "schiaretti": -4
+    },
+    {
+        "milei": 11,
+        "bregman": -65,
+        "bullrich": 3,
+        "massa": -19,
+        "schiaretti": -15
+    },
+    {
+        "milei": 68,
+        "bregman": -52,
+        "bullrich": 0,
+        "massa": -28,
+        "schiaretti": 27
+    },
+    {
+        "milei": 93,
+        "bregman": -27,
+        "bullrich": 36,
+        "massa": -45,
+        "schiaretti": 27
+    },
+    {
+        "milei": 57,
+        "bregman": -17,
+        "bullrich": -9,
+        "massa": 6,
+        "schiaretti": 27
+    },
+    {
+        "milei": 12,
+        "bregman": -81,
+        "bullrich": 17,
+        "massa": -6,
+        "schiaretti": -14
+    },
+    {
+        "milei": 21,
+        "bregman": -68,
+        "bullrich": -7,
+        "massa": -28,
+        "schiaretti": -7
+    },
+    {
+        "milei": 34,
+        "bregman": -25,
+        "bullrich": 8,
+        "massa": -37,
+        "schiaretti": 7
+    },
+    {
+        "milei": 31,
+        "bregman": -45,
+        "bullrich": 11,
+        "massa": -13,
+        "schiaretti": 2
+    },
+    {
+        "milei": 64,
+        "bregman": -65,
+        "bullrich": 18,
+        "massa": -35,
+        "schiaretti": 12
+    },
+    {
+        "milei": 60,
+        "bregman": -53,
+        "bullrich": 26,
+        "massa": -11,
+        "schiaretti": -27
+    },
+    {
+        "milei": 64,
+        "bregman": -35,
+        "bullrich": 6,
+        "massa": -20,
+        "schiaretti": -27
+    },
+    {
+        "milei": 76,
+        "bregman": -8,
+        "bullrich": 50,
+        "massa": -9,
+        "schiaretti": -6
+    },
+    {
+        "milei": 4,
+        "bregman": -8,
+        "bullrich": 8,
+        "massa": -11,
+        "schiaretti": -13
+    },
+    {
+        "milei": 26,
+        "bregman": -24,
+        "bullrich": 29,
+        "massa": -2,
+        "schiaretti": -27
+    },
+    {
+        "milei": 35,
+        "bregman": -94,
+        "bullrich": -4,
+        "massa": 10,
+        "schiaretti": -19
+    },
+    {
+        "milei": 43,
+        "bregman": -86,
+        "bullrich": 42,
+        "massa": -12,
+        "schiaretti": -6
+    },
+    {
+        "milei": 26,
+        "bregman": -15,
+        "bullrich": -8,
+        "massa": -36,
+        "schiaretti": 22
+    },
+    {
+        "milei": 28,
+        "bregman": -23,
+        "bullrich": 12,
+        "massa": 0,
+        "schiaretti": 20
+    },
+    {
+        "milei": 86,
+        "bregman": -17,
+        "bullrich": 23,
+        "massa": 0,
+        "schiaretti": -5
+    },
+    {
+        "milei": 53,
+        "bregman": -66,
+        "bullrich": 6,
+        "massa": -41,
+        "schiaretti": -4
+    },
+    {
+        "milei": 72,
+        "bregman": -51,
+        "bullrich": 6,
+        "massa": 10,
+        "schiaretti": -4
+    },
+    {
+        "milei": 15,
+        "bregman": -82,
+        "bullrich": 39,
+        "massa": -21,
+        "schiaretti": 22
+    },
+    {
+        "milei": 1,
+        "bregman": -39,
+        "bullrich": -8,
+        "massa": -33,
+        "schiaretti": -10
+    },
+    {
+        "milei": 95,
+        "bregman": -39,
+        "bullrich": 25,
+        "massa": -13,
+        "schiaretti": -1
+    },
+    {
+        "milei": 26,
+        "bregman": -52,
+        "bullrich": -4,
+        "massa": -13,
+        "schiaretti": -3
+    },
+    {
+        "milei": 54,
+        "bregman": -74,
+        "bullrich": 11,
+        "massa": -11,
+        "schiaretti": 25
+    },
+    {
+        "milei": 27,
+        "bregman": -87,
+        "bullrich": 16,
+        "massa": -15,
+        "schiaretti": -10
+    },
+    {
+        "milei": 44,
+        "bregman": -65,
+        "bullrich": 26,
+        "massa": -28,
+        "schiaretti": 2
+    },
+    {
+        "milei": 36,
+        "bregman": -9,
+        "bullrich": 42,
+        "massa": -1,
+        "schiaretti": 14
+    },
+    {
+        "milei": 17,
+        "bregman": -30,
+        "bullrich": -1,
+        "massa": -50,
+        "schiaretti": 16
+    },
+    {
+        "milei": 77,
+        "bregman": -9,
+        "bullrich": 34,
+        "massa": -36,
+        "schiaretti": 27
+    },
+    {
+        "milei": 95,
+        "bregman": -10,
+        "bullrich": 19,
+        "massa": -42,
+        "schiaretti": -25
+    },
+    {
+        "milei": 61,
+        "bregman": -17,
+        "bullrich": -10,
+        "massa": -49,
+        "schiaretti": 22
+    },
+    {
+        "milei": 23,
+        "bregman": -57,
+        "bullrich": -8,
+        "massa": 0,
+        "schiaretti": -11
+    }
+]

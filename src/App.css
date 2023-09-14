@@ -1,0 +1,40 @@
+html, body, #root, .App, .App>div, .game-container, .full-height {
+  height: 100%;
+  overflow: auto;
+  background: url('/src/images/roundBackground.svg');
+  font-family: Nippo Bold;
+
+}
+
+.App {
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'Nippo';
+  src: local('Nippo'), url(./fonts/Nippo.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Nippo Bold';
+  src: local('Nippo Bold'), url(./fonts/Nippo-Bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'General Sans Medium';
+  src: local('General Sans Medium'), url(./fonts/GeneralSansMedium.woff) format('woff');
+}
+
+p {
+  font-family: 'Nippo';
+}
+
+
+
+.centered {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%) scale(2);
+  color: white;
+}

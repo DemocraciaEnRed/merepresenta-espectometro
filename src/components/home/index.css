@@ -1,0 +1,38 @@
+.game-name {
+    font-family: Nippo Bold;
+    font-size: 2rem;
+    margin-top: -5px;
+    color: #000;
+    text-align: center;
+  }
+.game-description{
+    margin: auto;
+    width: 50%;
+    color: #000;
+    
+}
+.centered{
+    text-align: center;
+}
+  .logo-wrapper{
+    position: absolute;
+    left: 50%;
+    bottom: 5%;
+    transform: translate(-50%, -50%) scale(2);
+    -webkit-transform: translate(-50%, -50%) scale(2);
+    color: white;
+  }
+  
+  @media screen and (max-width:960px){
+  
+    .game-name{
+      font-size:1rem
+    }
+    .game-description{
+      font-size: .5em;
+    }
+    .logo-wrapper{
+      transform: translate(-50%, -50%) scale(1);
+      -webkit-transform: translate(-50%, -50%) scale(1);
+    }
+  }
