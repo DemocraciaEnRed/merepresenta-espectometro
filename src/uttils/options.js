@@ -19,3 +19,19 @@ export const CuestionarioUser = [
         follow: 'game'
     }
 ]
+
+export const candidates=[
+    {name:'Javier Millei',value:'milei'},
+    {name:'Myriam Bregman',value:'bregman'},
+    {name:'Patricia Bullrich',value:'bullrich'},
+    {name:'Juan Schiaretti',value:'schiaretti'},
+    {name:'Sergio Massa',value:'massa'} , 
+]
+
+export const shuffleArray = (array) => {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }

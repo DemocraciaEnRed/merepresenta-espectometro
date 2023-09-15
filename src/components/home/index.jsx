@@ -15,8 +15,8 @@ const Home = ({follow}) => {
                         Espectrómetro <br /> Político
                     </p>
                     <p className="game-description">
-                    Posiciona a los candidatos a presidente, en el espectro entre Derecha e Izquierda <br />
-                    <strong>Y descubrí lo que opinan los demas</strong>
+                    Posicioná a las candidaturas a presidenciales, en el espectro entre Derecha e Izquierda.  <br />
+                    <strong>Y descubrí lo que opinan los demás</strong>
                     </p>
                     <button className="btn btn-dark" onClick={follow} > JUGAR </button>
                 </div>

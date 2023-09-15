@@ -8,9 +8,6 @@ import 'animate.css';
 import "./index.css";
 import axios from "axios";
 
-const candidates=[
-    'milei', 'bregman', 'bullrich', 'massa', 'schiaretti'
-]
 
 const getPosition = (value, candidate) =>{
     if (value < -100 || value > 100) {
@@ -25,36 +22,11 @@ const getPosition = (value, candidate) =>{
 
 
 
-const Results = ({ personalResults}) => {
-    const [perRes, setPerRes] = useState(personalResults)
+const Results = ({ personalResults, candidates}) => {
+    const [perRes] = useState(personalResults)
     const [promRes, setPromRes] = useState({})
 
 
-    /* function generarObjetosAleatorios() {
-        const objetos = [];
-        
-        for (let i = 0; i < 1000; i++) {
-          const objeto = {
-            milei: getRandomInt(0, 100),
-            bregman: getRandomInt(-100, 0),
-            bullrich: getRandomInt(-10, 50),
-            massa: getRandomInt(-50, 10),
-            schiaretti: getRandomInt(-30, 30),
-          };
-          
-          objetos.push(objeto);
-        }
-        
-        return objetos;
-      }
-      
-      // Función auxiliar para obtener un número entero aleatorio en un rango dado
-      function getRandomInt(min, max) {
-        min = Math.ceil(min);
-        max = Math.floor(max);
-        return Math.floor(Math.random() * (max - min + 1)) + min;
-      } */
-      
     const getResults =async ()=>{
         
         const response = await axios.get('https://content.merepresenta.info/items/respuestas_espectometro')
@@ -78,7 +50,9 @@ const Results = ({ personalResults}) => {
     useEffect( ()=>{
         getResults()
         setTimeout(() => {
-            document.getElementById('overlay').remove()
+            if (document.getElementById('overlay')) {
+                document.getElementById('overlay').remove()
+            }
         }, 3000);
     },[])
 
@@ -91,11 +65,11 @@ const Results = ({ personalResults}) => {
             <WithBackground background={Background}>
                 <div className="game-wrapper">
                     <p className="game-name">
-                        Posiciona los candidatos
+                        Posicioná los candidatos
                     </p>
                     <p className="game-description-result">
                     Este es el resultado de lo que opina la ciudadanía sobre sus posiciones <br />
-                    <span>*Tus resultados están mas claros como referencia</span>
+                    <span>*Tus resultados están más claros como referencia</span>
                     </p>
                     <div className="game-content mt-3">
                         <div className="game">
@@ -105,21 +79,21 @@ const Results = ({ personalResults}) => {
                             <div className="result-sliders">
                                 {candidates.map((candidate,idx)=><div key={idx}>
                                     <div className="text-result">
-                                        <span id={'rangeValue-'+ candidate} style={{left:  getPosition(perRes[candidate], candidate)}}>
-                                        {Math.abs(perRes[candidate])}%
+                                        <span id={'rangeValue-'+ candidate.value} style={{left:  getPosition(perRes[candidate.value], candidate.value)}}>
+                                        {Math.abs(perRes[candidate.value])}%
 
                                         </span>
 
                                     </div>
                                     <div className="text-result others">
-                                        <span id={'rangeValue-'+ candidate} style={{left:  getPosition(promRes[candidate], candidate)}}>
-                                        {Math.abs(promRes[candidate]).toFixed()}%
+                                        <span id={'rangeValue-'+ candidate.value} style={{left:  getPosition(promRes[candidate.value], candidate.value)}}>
+                                        {Math.abs(promRes[candidate.value]).toFixed()}%
 
                                         </span>
 
                                     </div>
-                                    <input type="range" name={candidate} min={-100} max={100} className="others-results" value={promRes[candidate]} disabled id={candidate}/>
-                                    <input type="range" name={candidate} min={-100} max={100} value={perRes[candidate]} disabled id={candidate} />
+                                    <input type="range" name={candidate.value} min={-100} max={100} className="others-results" value={promRes[candidate.value]} disabled id={candidate.value}/>
+                                    <input type="range" name={candidate.value} min={-100} max={100} value={perRes[candidate.value]} disabled id={candidate.value} />
                                 </div> 
                                 )}
                                 

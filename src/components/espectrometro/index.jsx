@@ -8,16 +8,8 @@ import 'animate.css';
 import "./index.css";
 import axios from "axios";
 
-const candidates=[
-    {name:'Javier Millei',value:'milei'},
-    {name:'Myriam Bregman',value:'bregman'},
-    {name:'Patricia Bullrich',value:'bullrich'},
-    {name:'Juan Schiaretti',value:'schiaretti'},
-    {name:'Sergio Massa',value:'massa'} , 
-]
 
-
-const Espectrómetro = ({follow, setResults, location, age, gender}) => {
+const Espectrómetro = ({follow, setResults, location, age, gender, candidates}) => {
 
     const handleSend = async (event)=>{
         event.target.disabled = true
@@ -56,7 +48,7 @@ const Espectrómetro = ({follow, setResults, location, age, gender}) => {
             <WithBackground background={Background}>
                 <div className="game-wrapper">
                     <p className="game-name">
-                        Posiciona los candidatos
+                        Posicioná los candidatos
                     </p>
                     <div className="game-content mt-3">
                         <div className="game">
