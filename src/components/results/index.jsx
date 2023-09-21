@@ -83,7 +83,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
 
     return (
         <div className="" >
-            <div className="overlay animate__animated animate__fadeOut animate__delay-3s" id="overlay" style={{backgroundImage:'url("src/images/roundBackground.svg")'}}>
+            <div className="overlay animate__animated animate__fadeOut animate__delay-3s" id="overlay" style={{backgroundImage:`url(${Background})`}}>
                 <div id="loading"></div>
 
             </div>
