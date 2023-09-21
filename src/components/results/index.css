@@ -211,6 +211,44 @@
   font-style: italic;
 }
 
+.social-wrapper{
+  color: #000
+}
+.play-again {
+  margin: 1rem 0 1rem;
+}
+
+.call-to{
+  margin-top: 1rem;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.more-info {
+  margin-bottom: 0;
+}
+
+.merepresenta-button {
+  margin: .5rem 0 3rem;
+  border-radius: 30px!important;
+}
+
+.share-text{
+  font-size: 16px;
+  font-weight: 700;
+}
+.iconos{
+  margin-left: 1rem;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.game-images {
+  margin: 0 8px;
+  height: 200px;
+}
+
   @media screen and (max-width:960px){
     .game-wrapper{
       width: 95%;

@@ -5,10 +5,10 @@ import Background from '../../images/roundBackground.svg';
 import 'animate.css';
 import "./index.css";
 
-const Question = ({follow, options, title,setOption}) => {
+const Question = ({follow, options, title, setOption, id, lastEl}) => {
 
     const handleOption = (option)=>{
-        setOption(option)
+        setOption(id, option, lastEl)
         follow()
     }
 

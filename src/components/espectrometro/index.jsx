@@ -6,10 +6,9 @@ import izquierda from '../../images/izquierda.svg'
 import derecha from '../../images/derecha.svg'
 import 'animate.css';
 import "./index.css";
-import axios from "axios";
 
 
-const Espectrómetro = ({follow, setResults, location, age, gender, candidates}) => {
+const Espectrómetro = ({follow, setResults, candidates}) => {
 
     const handleSend = async (event)=>{
         event.target.disabled = true
@@ -17,19 +16,7 @@ const Espectrómetro = ({follow, setResults, location, age, gender, candidates})
         const sliders = document.querySelectorAll('input[type="range"]')
         sliders.forEach(val => results[val.id]=parseInt(val.value))
         setResults(results)
-        const body = {
-            localidad: location,
-            edad: age,
-            genero: gender,
-            respuestas: results
-        }
-        const response = await axios.post('https://content.merepresenta.info/items/respuestas_espectometro',body,{ 
-            headers: { 
-                "Content-Type": "application/json",
-                "Authorization": "Bearer iKETGevoDyRC6o8sVK3sWp8Tr8pKn5TW" 
-            }
-            
-        })
+       
         follow()
     }
 

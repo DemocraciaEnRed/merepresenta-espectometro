@@ -4,6 +4,15 @@ import Logo from "../logo";
 import Background from '../../images/roundBackground.svg';
 import izquierda from '../../images/izquierda.svg'
 import derecha from '../../images/derecha.svg'
+import { ReactComponent as TwitterIcono } from "../../images/iconoX.svg";
+import { ReactComponent as WhatsappIcono } from "../../images/iconoWhats.svg";
+import { ReactComponent as LinkIcono } from "../../images/iconoLink.svg";
+
+import vof from '../../images/vof.png';
+import trivia from '../../images/trivia.png';
+import compas from '../../images/compas.png';
+import quienDijo from '../../images/quien-dijo.png';
+
 import 'animate.css';
 import "./index.css";
 import axios from "axios";
@@ -22,7 +31,7 @@ const getPosition = (value, candidate) =>{
 
 
 
-const Results = ({ personalResults, candidates}) => {
+const Results = ({ personalResults, candidates, setPlayAgain}) => {
     const [perRes] = useState(personalResults)
     const [promRes, setPromRes] = useState({})
 
@@ -46,12 +55,28 @@ const Results = ({ personalResults, candidates}) => {
         setPromRes(promedio)
     }
 
+    const textShare = `En un eje izquierda/derecha, ¿cómo posicionarías a las candidaturas electorales 2023? \n ¡Jugá y compará tu opinión con el resto! Entrá ahora a "¿De qué lado están?" de #MeRepresenta y descubrí que tan alineado estás con los demás! \n\nEntra a https://espectrometro.merepresenta.info/ para Jugar`
+
+    const shareOnWhatsApp = () => {
+      const whatsappUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(textShare)}`;
+      window.open(whatsappUrl, '_blank');
+    };
+
+    const shareOnTwitter = () => {
+      const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(textShare)}`;
+      window.open(twitterUrl, '_blank');
+    };
+
+    const copyToClipboard = () => {
+      navigator.clipboard.writeText(textShare);
+    };
 
     useEffect( ()=>{
         getResults()
         setTimeout(() => {
-            if (document.getElementById('overlay')) {
-                document.getElementById('overlay').remove()
+            const overlay = document.getElementById('overlay')
+            if (overlay) {
+                overlay.remove()
             }
         }, 3000);
     },[])
@@ -108,6 +133,49 @@ const Results = ({ personalResults, candidates}) => {
 
                     </div>
                 </div>
+                <section className="mt-4 social-wrapper text-center">
+                    <p className="share-text">Compartí tu resultado en Redes sociales</p> 
+                <div className="mb-4 d-flex justify-content-center">
+                    <a onClick={shareOnTwitter} className="iconos">
+                    <TwitterIcono alt="twitter" />
+                    </a>
+                    <a onClick={shareOnWhatsApp}  className="iconos">
+                    <WhatsappIcono alt="twitter" />
+                    </a>
+                    <a onClick={copyToClipboard} className="iconos">
+                    <LinkIcono alt="twitter" />
+                    </a>
+                    {/* <a  className="iconos">
+                    <JpgIcono alt="twitter" />
+                    </a>                                 */}
+                </div>
+                <div className="d-flex flex-column justify-content-center align-items-center">
+                    <button className="btn btn-dark" variant="outline-light" onClick={setPlayAgain}>VOLVER A JUGAR</button>
+                    <p className="call-to">Te invitamos a Jugar a:</p> 
+                    <div className="d-flex">
+                        <a href="https://verdaderofalso.merepresenta.info/" >
+                        <img className="game-images" src={vof} alt="Jugar a verdadero o falso" />
+                        </a>
+                        <a href="https://trivia.merepresenta.info/" >
+                        <img className="game-images" src={trivia} alt="Jugar a trivia" />
+                        </a>
+                        <a href="https://quiendijo.merepresenta.info/" >
+                        <img className="game-images" src={quienDijo} alt="Jugar a quien dijo" />
+                        </a>
+                        {/* <a href="https://compas.merepresenta.info/" >
+                        <img className="game-images" src={compas} alt="Jugar a compas politico" />
+                        </a> */}
+
+                    </div>
+                </div>
+                <div className="d-flex flex-column justify-content-center align-items-center">
+                <p>ó</p>
+                <p className="">Encontrá más info sobre las elecciones en: </p>
+                <button target="_blank" href="https://merepresenta.info/" className="btn btn-dark" variant="light">#MEREPRESENTA</button>
+
+                </div>
+
+                </section>
                 <div className="logo-wrapper-game">
                     <Logo />
                 </div>

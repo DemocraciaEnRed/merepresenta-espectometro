@@ -16,7 +16,7 @@ export const CuestionarioUser = [
         id: 'gender',
         title: 'Género',
         options: ["FEMENINO", "MASCULINO", "OTRO / NO BINARIO"],
-        follow: 'game'
+        follow: 'result'
     }
 ]
 
