@@ -8,8 +8,8 @@ import "./index.css";
 const Landing = ({ follow }) => <div className="animate__animated animate__fadeOut animate__delay-4s" onAnimationEnd={follow}>
   <WithBackground background={Background}>
     <div className="centered animate__animated animate__fadeIn animate__delay-1s">
-      <p className="game-name">Espectrómetro <br />
-        Político</p>
+      <p className="game-name">¿De qué  <br />
+      lado están?</p>
     </div>
       <div className="logo-wrapper animate__animated animate__fadeIn animate__delay-1s">
 

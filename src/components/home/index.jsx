@@ -12,11 +12,11 @@ const Home = ({follow}) => {
             <WithBackground background={Background}>
                 <div className="centered animate__animated animate__fadeIn animate__delay-1s">
                     <p className="game-name">
-                        Espectrómetro <br /> Político
+                        ¿De qué lado están?
                     </p>
                     <p className="game-description">
-                    Posicioná a las candidaturas a presidenciales, en el espectro entre Derecha e Izquierda.  <br />
-                    <strong>Y descubrí lo que opinan los demás</strong>
+                        Posiciona a las candidaturas a presidenciales, en el espectro entre Derecha e Izquierda.<br />
+                    <strong> Y descubrí lo que opinan los demás </strong>
                     </p>
                     <button className="btn btn-dark" onClick={follow} > JUGAR </button>
                 </div>

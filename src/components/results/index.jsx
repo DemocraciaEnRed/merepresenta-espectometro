@@ -34,6 +34,7 @@ const getPosition = (value, candidate) =>{
 const Results = ({ personalResults, candidates, setPlayAgain}) => {
     const [perRes] = useState(personalResults)
     const [promRes, setPromRes] = useState({})
+    const [quantityResults, setQuantityResults] = useState(0)
 
 
     const getResults =async ()=>{
@@ -46,6 +47,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
             });
             return resultado;
         }, {});
+        setQuantityResults(response.data.data.length);
         
         const cantidadObjetos = datos.length;
         Object.keys(promedio).forEach((clave) => {
@@ -55,7 +57,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
         setPromRes(promedio)
     }
 
-    const textShare = `En un eje izquierda/derecha, ¿cómo posicionarías a las candidaturas electorales 2023? \n ¡Jugá y compará tu opinión con el resto! Entrá ahora a "¿De qué lado están?" de #MeRepresenta y descubrí que tan alineado estás con los demás! \n\nEntra a https://espectrometro.merepresenta.info/ para Jugar`
+    const textShare = `En un eje izquierda/derecha, ¿cómo posicionarías a las candidaturas electorales 2023? \n ¡Jugá y compará tu opinión con el resto! Entrá ahora a "¿De qué lado están?" de #MeRepresenta y descubrí que tan alineado estás con los demás! \n\nEntra a https://dequelado.merepresenta.info/ para Jugar`
 
     const shareOnWhatsApp = () => {
       const whatsappUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(textShare)}`;
@@ -90,11 +92,14 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
             <WithBackground background={Background}>
                 <div className="game-wrapper">
                     <p className="game-name">
-                        Posicioná los candidatos
+                        Conocé los resultados
                     </p>
                     <p className="game-description-result">
-                    Este es el resultado de lo que opina la ciudadanía sobre sus posiciones <br />
-                    <span>*Tus resultados están más claros como referencia</span>
+                    Compará tu opinión con el promedio general. <br />
+                    <span>*Tu elección se ve más transparente.</span>
+                    </p>
+                    <p className="others-players ">
+                        Cantidad de participantes: {quantityResults}
                     </p>
                     <div className="game-content mt-3">
                         <div className="game">
@@ -117,8 +122,8 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
                                         </span>
 
                                     </div>
-                                    <input type="range" name={candidate.value} min={-100} max={100} className="others-results" value={promRes[candidate.value]} disabled id={candidate.value}/>
-                                    <input type="range" name={candidate.value} min={-100} max={100} value={perRes[candidate.value]} disabled id={candidate.value} />
+                                    <input type="range" name={candidate.value} min={-100} max={100} value={promRes[candidate.value]} disabled id={candidate.value}/>
+                                    <input type="range" name={candidate.value} min={-100} max={100} className="player-results" value={perRes[candidate.value]} disabled id={candidate.value} />
                                 </div> 
                                 )}
                                 
@@ -150,7 +155,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
                     </a>                                 */}
                 </div>
                 <div className="d-flex flex-column justify-content-center align-items-center">
-                    <button className="btn btn-dark" variant="outline-light" onClick={setPlayAgain}>VOLVER A JUGAR</button>
+                    <button className="btn btn-dark" variant="outline-light" onClick={setPlayAgain}>volve a jugar</button>
                     <p className="call-to">Te invitamos a Jugar a:</p> 
                     <div className="d-flex">
                         <a href="https://verdaderofalso.merepresenta.info/" >

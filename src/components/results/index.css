@@ -128,11 +128,11 @@
   cursor: pointer;
 }
 
-.others-results{
+.player-results{
   position: absolute;
   z-index: 0!important;
 }
-.others-results::-webkit-slider-thumb {
+.player-results::-webkit-slider-thumb {
   opacity: 50%;
 }
 
@@ -247,6 +247,12 @@
 .game-images {
   margin: 0 8px;
   height: 200px;
+}
+.others-players{
+  color: #000;
+  font-size: .8rem;
+  text-align: center;
+  margin: 8px 0;
 }
 
   @media screen and (max-width:960px){

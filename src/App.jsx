@@ -17,7 +17,7 @@ function App() {
   const [randomCandidates] = useState(shuffleArray(candidates))
   const [personalResults, setPersonalResults] = useState({})
   const [userData, setUserData] = useState({})
-  const setPlayAgain = _.last(useState());
+  const setPlayAgain = ()=> setCurrentStep("home");
   const Result = ({ setPlayAgain }) => {
     return <Results personalResults={personalResults} candidates={randomCandidates} setPlayAgain={setPlayAgain}/>;
   };
@@ -32,7 +32,6 @@ function App() {
       genero: data['gender'],
       respuestas: personalResults
   }
-  console.log(body);
     const response = await axios.post('https://content.merepresenta.info/items/respuestas_espectometro',body,{ 
             headers: { 
                 "Content-Type": "application/json",

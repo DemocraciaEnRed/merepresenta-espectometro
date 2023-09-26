@@ -35,7 +35,10 @@ const Espectrómetro = ({follow, setResults, candidates}) => {
             <WithBackground background={Background}>
                 <div className="game-wrapper">
                     <p className="game-name">
-                        Posicioná los candidatos
+                        Posicioná las candidaturas
+                    </p>
+                    <p className="others-players">
+                    Arrastrá la foto y ubicala donde creas que corresponde
                     </p>
                     <div className="game-content mt-3">
                         <div className="game">
