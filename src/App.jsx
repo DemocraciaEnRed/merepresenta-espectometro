@@ -10,6 +10,7 @@ import Question from "./components/questionsUser";
 import Header from "./components/header";
 import { candidates } from "./uttils/options";
 import axios from "axios";
+import Logo from "./components/logo";
 
 
 function App() {
@@ -73,6 +74,10 @@ function App() {
     <> 
       {currentStep !== 'landing' && <Header follow={() => setCurrentStep("home")}/>}
       <Step />
+      {currentStep !== 'landing' && <footer className="general-footer">
+        <Logo />
+      </footer>}
+      
     </>
   )
 }

@@ -31,7 +31,7 @@ const Espectrómetro = ({follow, setResults, candidates}) => {
 
 
     return (
-        <div className="" >
+        <div className="mb-6" >
             <WithBackground background={Background}>
                 <div className="game-wrapper">
                     <p className="game-name">
@@ -67,9 +67,6 @@ const Espectrómetro = ({follow, setResults, candidates}) => {
                         <button className="btn btn-outline-secondary mt-3 w-25 text-uppercase" onClick={handleSend} > enviar </button>
 
                     </div>
-                </div>
-                <div className="logo-wrapper-game">
-                    <Logo />
                 </div>
             </WithBackground>
         </div>

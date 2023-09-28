@@ -84,7 +84,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
     },[])
 
     return (
-        <div className="" >
+        <div className="mb-6" >
             <div className="overlay animate__animated animate__fadeOut animate__delay-3s" id="overlay" style={{backgroundImage:`url(${Background})`}}>
                 <div id="loading"></div>
 
@@ -157,7 +157,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
                 <div className="d-flex flex-column justify-content-center align-items-center">
                     <button className="btn btn-dark" variant="outline-light" onClick={setPlayAgain}>volve a jugar</button>
                     <p className="call-to">Te invitamos a Jugar a:</p> 
-                    <div className="d-flex">
+                    <div className="d-flex flex-wrap justify-content-center">
                         <a href="https://verdaderofalso.merepresenta.info/" >
                         <img className="game-images" src={vof} alt="Jugar a verdadero o falso" />
                         </a>
@@ -177,13 +177,8 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
                 <p>ó</p>
                 <p className="">Encontrá más info sobre las elecciones en: </p>
                 <button target="_blank" href="https://merepresenta.info/" className="btn btn-dark" variant="light">#MEREPRESENTA</button>
-
                 </div>
-
                 </section>
-                <div className="logo-wrapper-game">
-                    <Logo />
-                </div>
             </WithBackground>
         </div>
     )

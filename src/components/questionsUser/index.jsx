@@ -13,7 +13,7 @@ const Question = ({follow, options, title, setOption, id, lastEl}) => {
     }
 
     return (
-        <div className="" >
+        <div className="mb-6" >
             <WithBackground background={Background}>
                 <div className="">
                     <h1 className="text-secondary-emphasis text-center">
@@ -25,9 +25,6 @@ const Question = ({follow, options, title, setOption, id, lastEl}) => {
                     </div>
 
                     {/* <button className="btn btn-dark" onClick={follow} > JUGAR </button> */}
-                </div>
-                <div className="logo-wrapper-game">
-                    <Logo />
                 </div>
             </WithBackground>
         </div>

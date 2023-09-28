@@ -14,14 +14,11 @@ const Home = ({follow}) => {
                     <p className="game-name">
                         ¿De qué lado están?
                     </p>
-                    <p className="game-description">
+                    <p className="game-description mb-4">
                         Posiciona a las candidaturas a presidenciales, en el espectro entre Derecha e Izquierda.<br />
                     <strong> Y descubrí lo que opinan los demás </strong>
                     </p>
-                    <button className="btn btn-dark" onClick={follow} > JUGAR </button>
-                </div>
-                <div className="logo-wrapper animate__animated animate__fadeIn animate__delay-1s">
-                    <Logo />
+                    <button className="btn btn-dark btn-sm" onClick={follow} > JUGAR </button>
                 </div>
             </WithBackground>
         </div>

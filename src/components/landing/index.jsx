@@ -11,10 +11,6 @@ const Landing = ({ follow }) => <div className="animate__animated animate__fadeO
       <p className="game-name">¿De qué  <br />
       lado están?</p>
     </div>
-      <div className="logo-wrapper animate__animated animate__fadeIn animate__delay-1s">
-
-        <Logo />
-      </div>
   </WithBackground>
 </div>
 

@@ -29,7 +29,20 @@ p {
   font-family: 'Nippo';
 }
 
+.mb-6{
+  margin-bottom: 3.8rem!important;
+}
 
+.general-footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background: #fff;
+  padding: 16px;
+  border-top: 1px solid gray;
+  z-index: 10;
+}
 
 .centered {
   position: absolute;
