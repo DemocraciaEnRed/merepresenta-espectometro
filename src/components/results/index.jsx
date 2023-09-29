@@ -150,9 +150,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
                     <a onClick={copyToClipboard} className="iconos">
                     <LinkIcono alt="twitter" />
                     </a>
-                    {/* <a  className="iconos">
-                    <JpgIcono alt="twitter" />
-                    </a>                                 */}
+                    
                 </div>
                 <div className="d-flex flex-column justify-content-center align-items-center">
                     <button className="btn btn-dark" variant="outline-light" onClick={setPlayAgain}>volve a jugar</button>
@@ -167,9 +165,9 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
                         <a href="https://quiendijo.merepresenta.info/" >
                         <img className="game-images" src={quienDijo} alt="Jugar a quien dijo" />
                         </a>
-                        {/* <a href="https://compas.merepresenta.info/" >
+                        <a href="https://compaspolitico.merepresenta.info/" >
                         <img className="game-images" src={compas} alt="Jugar a compas politico" />
-                        </a> */}
+                        </a>
 
                     </div>
                 </div>
