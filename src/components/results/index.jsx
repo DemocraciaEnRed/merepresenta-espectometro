@@ -153,7 +153,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
                     
                 </div>
                 <div className="d-flex flex-column justify-content-center align-items-center">
-                    <button className="btn btn-dark" variant="outline-light" onClick={setPlayAgain}>volve a jugar</button>
+                    <button className="btn btn-dark" variant="outline-light" onClick={setPlayAgain}>Volvé a jugar</button>
                     <p className="call-to">Te invitamos a Jugar a:</p> 
                     <div className="d-flex flex-wrap justify-content-center">
                         <a href="https://verdaderofalso.merepresenta.info/" >
