@@ -82,7 +82,7 @@
   transform: translateX(-50%);
 }
 
-.text-result.others{
+.text-result:not(.others){
   opacity: 50%;
 }
 

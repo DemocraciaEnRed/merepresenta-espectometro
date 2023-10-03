@@ -1,5 +1,5 @@
 import _ from "lodash";
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import "./App.css";
 import Landing from "./components/landing";
 import Home from "./components/home";
@@ -15,7 +15,7 @@ import Logo from "./components/logo";
 
 function App() {
   const [currentStep, setCurrentStep] = useState("landing");
-  const [randomCandidates] = useState(shuffleArray(candidates))
+  const [randomCandidates, setRandomCandidates] = useState({})
   const [personalResults, setPersonalResults] = useState({})
   const [userData, setUserData] = useState({})
   const setPlayAgain = ()=> setCurrentStep("home");
@@ -51,6 +51,10 @@ function App() {
     if(lastEl)sendToDirectus(dataUser)
       
   }
+
+  useEffect(()=>{
+    setRandomCandidates(shuffleArray(candidates))
+  },[])
 
   const setres = (res)=>{
     setPersonalResults(res)
