@@ -39,7 +39,7 @@ const Results = ({ personalResults, candidates, setPlayAgain}) => {
 
     const getResults =async ()=>{
         
-        const response = await axios.get('https://content.merepresenta.info/items/respuestas_espectometro')
+        const response = await axios.get('https://content.merepresenta.info/items/respuestas_espectometro?limit=-1')
         const datos = await response.data.data.map(el => el.respuestas)
         const promedio = datos.reduce((resultado, objeto) => {
             Object.keys(objeto).forEach((clave) => {
